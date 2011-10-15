@@ -95,7 +95,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=3.3V Power Supply.SchDoc
+DocumentPath=HMC5883L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=nRF24L01+.SchDoc
+DocumentPath=3.3V Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -127,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=2.4Ghz Chip Board.SchDoc
+DocumentPath=nRF24L01+.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,7 +143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=2.4ghz Receiver Board.SchDoc
+DocumentPath=2.4Ghz Chip Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=5V to 3.3V.SchDoc
+DocumentPath=2.4ghz Receiver Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=5V 3.3V TWI.SchDoc
+DocumentPath=5V to 3.3V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=Sensors on Main Board.SchDoc
+DocumentPath=5V 3.3V TWI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -207,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document12]
-DocumentPath=Main Board.SchDoc
+DocumentPath=Sensors on Main Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -223,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=I2C_BUS_MUX.SchDoc
+DocumentPath=Main Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=3DMouseMainBoardAssembly.SchDoc
+DocumentPath=I2C_BUS_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=HMC5883L.SchDoc
+DocumentPath=3DMouseMainBoardAssembly.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
