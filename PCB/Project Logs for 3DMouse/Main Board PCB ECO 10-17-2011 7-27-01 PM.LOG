@@ -1,0 +1,6 @@
+Added Component: Designator=J1(mini_USB)
+Added Pin To Net: NetName=NetC13_1 Pin=J1-1
+Added Pin To Net: NetName=USBDM Pin=J1-2
+Added Pin To Net: NetName=USBDP Pin=J1-3
+Added Pin To Net: NetName=PA3 Pin=J1-4
+Added Member To Class: ClassName=U_Main Board Member=Component J1 Mini USB

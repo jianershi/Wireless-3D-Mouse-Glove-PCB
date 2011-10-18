@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3VCC Pin=RESET-1
+Removed Pin From Net: NetName=RESET_N Pin=RESET-2
+Change Component DesignItemId : Designator=RESET Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component Footprint: Designator=RESET Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Comment : Designator=RESET Old Comment=SW-PB New Comment=Header 2
+Added Pin To Net: NetName=RESET_N Pin=RESET-1
+Added Pin To Net: NetName=3.3VCC Pin=RESET-2

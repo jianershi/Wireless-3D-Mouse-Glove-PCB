@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=TWI0_0 Pin=F0-1
+Removed Pin From Net: NetName=TWI0_1 Pin=F0-2
+Removed Pin From Net: NetName=TWI1_0 Pin=F1-1
+Removed Pin From Net: NetName=TWI1_1 Pin=F1-2
+Removed Pin From Net: NetName=TWI2_0 Pin=F2-1
+Removed Pin From Net: NetName=TWI2_1 Pin=F2-2
+Removed Pin From Net: NetName=TWI3_0 Pin=F3-1
+Removed Pin From Net: NetName=TWI3_1 Pin=F3-2
+Removed Pin From Net: NetName=TWI4_0 Pin=F4-1
+Removed Pin From Net: NetName=TWI4_1 Pin=F4-2
+Removed Member From Class: ClassName=U_I2C_BUS_MUX Member=F0
+Removed Member From Class: ClassName=U_I2C_BUS_MUX Member=F1
+Removed Member From Class: ClassName=U_I2C_BUS_MUX Member=F2
+Removed Member From Class: ClassName=U_I2C_BUS_MUX Member=F3
+Removed Member From Class: ClassName=U_I2C_BUS_MUX Member=F4
+Added Component: Designator=FB_TWIs(HDR2X5)
+Added Component: Designator=P1(HDR2X8)
+Added Component: Designator=P2(HDR2X8)
+Added Component: Designator=P3(HDR2X8)
+Added Component: Designator=P4(HDR2X8)
+Added Pin To Net: NetName=TWI0_0 Pin=FB_TWIs-1
+Added Pin To Net: NetName=TWI0_1 Pin=FB_TWIs-2
+Added Pin To Net: NetName=TWI1_0 Pin=FB_TWIs-3
+Added Pin To Net: NetName=TWI1_1 Pin=FB_TWIs-4
+Added Pin To Net: NetName=TWI2_0 Pin=FB_TWIs-5
+Added Pin To Net: NetName=TWI2_1 Pin=FB_TWIs-6
+Added Pin To Net: NetName=TWI3_0 Pin=FB_TWIs-7
+Added Pin To Net: NetName=TWI3_1 Pin=FB_TWIs-8
+Added Pin To Net: NetName=TWI4_0 Pin=FB_TWIs-9
+Added Pin To Net: NetName=TWI4_1 Pin=FB_TWIs-10
+Added Pin To Net: NetName=PA0 Pin=P1-3
+Added Pin To Net: NetName=PA1 Pin=P1-4
+Added Pin To Net: NetName=PA2 Pin=P1-5
+Added Pin To Net: NetName=PB0 Pin=P1-6
+Added Pin To Net: NetName=PB1 Pin=P1-7
+Added Pin To Net: NetName=PA3 Pin=P1-9
+Added Pin To Net: NetName=PA4 Pin=P1-10
+Added Pin To Net: NetName=BUS_SEL0 Pin=P1-11
+Added Pin To Net: NetName=BUS_SEL1 Pin=P1-12
+Added Pin To Net: NetName=BUS_SEL2 Pin=P1-13
+Added Pin To Net: NetName=PA8 Pin=P1-14
+Added Pin To Net: NetName=PA30 Pin=P1-15
+Added Pin To Net: NetName=PA31 Pin=P1-16
+Added Pin To Net: NetName=PB2 Pin=P2-8
+Added Pin To Net: NetName=PB3 Pin=P2-9
+Added Pin To Net: NetName=PB4 Pin=P2-10
+Added Pin To Net: NetName=PB5 Pin=P2-11
+Added Pin To Net: NetName=PA9 Pin=P2-12
+Added Pin To Net: NetName=PA10 Pin=P2-13
+Added Pin To Net: NetName=PA11 Pin=P2-14
+Added Pin To Net: NetName=PA12 Pin=P2-15
+Added Pin To Net: NetName=PA13 Pin=P3-1
+Added Pin To Net: NetName=PA14 Pin=P3-2
+Added Pin To Net: NetName=PA15 Pin=P3-3
+Added Pin To Net: NetName=PA16 Pin=P3-4
+Added Pin To Net: NetName=PA17 Pin=P3-5
+Added Pin To Net: NetName=PB6 Pin=P3-6
+Added Pin To Net: NetName=PA18 Pin=P3-7
+Added Pin To Net: NetName=PA19 Pin=P3-8
+Added Pin To Net: NetName=PA28 Pin=P3-9
+Added Pin To Net: NetName=PA29 Pin=P3-10
+Added Pin To Net: NetName=PB7 Pin=P3-11
+Added Pin To Net: NetName=PA20 Pin=P3-12
+Added Pin To Net: NetName=PA21 Pin=P3-13
+Added Pin To Net: NetName=PA22 Pin=P3-14
+Added Pin To Net: NetName=PA23 Pin=P3-15
+Added Pin To Net: NetName=PB8 Pin=P4-6
+Added Pin To Net: NetName=PB9 Pin=P4-7
+Added Pin To Net: NetName=PB10 Pin=P4-9
+Added Pin To Net: NetName=PB11 Pin=P4-10
+Added Pin To Net: NetName=PA24 Pin=P4-11
+Added Pin To Net: NetName=PA25 Pin=P4-12
+Added Pin To Net: NetName=PA26 Pin=P4-13
+Added Pin To Net: NetName=PA27 Pin=P4-14
+Added Member To Class: ClassName=U_I2C_BUS_MUX Member=Component FB_TWIs Header 5X2
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P1 Header 1-16
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P2 Header 17-32
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P3 Header 33-48
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P4 Header 49-64
+Added Room: Name=3DMouseMainBoardAssembly
+Added Room: Name=U_3
+Added Room: Name=U_BMA180
+Added Room: Name=U_HMC5883L
+Added Room: Name=U_I2C_BUS_MUX
+Added Room: Name=U_IMU3000
+Added Room: Name=U_Main Board
