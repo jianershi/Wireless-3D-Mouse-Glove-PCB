@@ -1,0 +1,13 @@
+Added Component: Designator=MAG(HMC5883L - ECESHOP)
+Added Pin To Net: NetName=TWI0 Pin=MAG-1
+Added Pin To Net: NetName=3.3VCC Pin=MAG-2
+Added Pin To Net: NetName=3.3VCC Pin=MAG-4
+Added Pin To Net: NetName=NetC17_1 Pin=MAG-8
+Added Pin To Net: NetName=GND Pin=MAG-9
+Added Pin To Net: NetName=NetC18_1 Pin=MAG-10
+Added Pin To Net: NetName=GND Pin=MAG-11
+Added Pin To Net: NetName=NetC17_2 Pin=MAG-12
+Added Pin To Net: NetName=3.3VCC Pin=MAG-13
+Added Pin To Net: NetName=NetINT_3 Pin=MAG-15
+Added Pin To Net: NetName=TWI1 Pin=MAG-16
+Added Member To Class: ClassName=U_HMC5883L Member=Component MAG HMC5883L

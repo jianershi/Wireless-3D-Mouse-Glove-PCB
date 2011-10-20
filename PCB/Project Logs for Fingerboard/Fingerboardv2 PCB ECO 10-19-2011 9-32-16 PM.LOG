@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=Gyro Old Footprint=IMU3000_ECE New Footprint=IMU3000_ECESHOP
+Change Component Footprint: Designator=Accel Old Footprint=LGA12 New Footprint=BMA180 - ECESHOP
+Added Component: Designator=INT(HDR1X3)
+Added Pin To Net: NetName=NetGyro_12 Pin=INT-1
+Added Pin To Net: NetName=NetAccel_4 Pin=INT-2
+Added Pin To Net: NetName=NetINT_3 Pin=INT-3
+Added Member To Class: ClassName=Fingerboard Member=Component INT
+Added Room: Name=Fingerboard
+Added Room: Name=U_BMA180
+Added Room: Name=U_HMC5883L
+Added Room: Name=U_IMU3000

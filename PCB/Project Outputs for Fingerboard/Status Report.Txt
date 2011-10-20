@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Fingerboard.PrjPcb]
+   Generated File[Fingerboardv2_forcommercial.TXT]
+   Generated File[Fingerboardv2_forcommercial.DRL]
+   Generated File[Fingerboardv2_forcommercial.LDP]
+   Generated File[Fingerboardv2_forcommercial.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:15:37 PM On 10/19/2011

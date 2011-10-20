@@ -1,0 +1,137 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\Fingerboardv2_forcommercial.PcbDoc
+Date     : 10/19/2011
+Time     : 11:13:11 PM
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=13mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad Gyro-1(2224.291mil,4259.213mil)  Top Layer and 
+                     Pad Gyro-24(2255.787mil,4290.709mil)  Top Layer
+   Violation between Pad Gyro-18(2385.709mil,4259.213mil)  Top Layer and 
+                     Pad Gyro-19(2354.213mil,4290.709mil)  Top Layer
+   Violation between Pad Gyro-12(2354.213mil,4129.291mil)  Top Layer and 
+                     Pad Gyro-13(2385.709mil,4160.787mil)  Top Layer
+   Violation between Via (2380mil,4090mil) Top Layer to Bottom Layer and 
+                     Pad Gyro-12(2354.213mil,4129.291mil)  Top Layer
+   Violation between Pad Gyro-6(2224.291mil,4160.787mil)  Top Layer and 
+                     Pad Gyro-7(2255.787mil,4129.291mil)  Top Layer
+   Violation between Pad C16-2(2110.472mil,3725mil)  Top Layer and 
+                     Pad C16-1(2169.528mil,3725mil)  Top Layer
+   Violation between Pad C21-2(2220.472mil,4025mil)  Top Layer and 
+                     Pad C21-1(2279.528mil,4025mil)  Top Layer
+   Violation between Via (2330mil,4035mil) Top Layer to Bottom Layer and 
+                     Pad C21-1(2279.528mil,4025mil)  Top Layer
+   Violation between Pad C19-2(2535mil,4185.472mil)  Top Layer and 
+                     Pad C19-1(2535mil,4244.528mil)  Top Layer
+   Violation between Pad C20-2(2460mil,4185.472mil)  Top Layer and 
+                     Pad C20-1(2460mil,4244.528mil)  Top Layer
+   Violation between Pad C17-2(2499.528mil,4040mil)  Top Layer and 
+                     Pad C17-1(2440.472mil,4040mil)  Top Layer
+   Violation between Pad C22-2(2340.472mil,4375mil)  Top Layer and 
+                     Pad C22-1(2399.528mil,4375mil)  Top Layer
+Rule Violations :12
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Pad Accel-1(2160mil,3910mil)  Top Layer and 
+                     Arc (2132.835mil,3913.543mil)  Top Overlay
+   Violation between Pad C18-1(2460mil,3709.056mil)  Top Layer and 
+                     Arc (2519.055mil,3756.299mil)  Top Overlay
+   Violation between Track (2250.157mil,3929.685mil)(2266.299mil,3929.685mil)  Top Overlay and 
+                     Pad Accel-11(2254.488mil,3910mil)  Top Layer
+   Violation between Track (2266.299mil,3912.756mil)(2266.299mil,3929.685mil)  Top Overlay and 
+                     Pad Accel-11(2254.488mil,3910mil)  Top Layer
+   Violation between Track (2266.299mil,3811.575mil)(2266.299mil,3828.504mil)  Top Overlay and 
+                     Pad Accel-7(2254.488mil,3831.26mil)  Top Layer
+   Violation between Track (2252.52mil,3811.575mil)(2266.299mil,3811.575mil)  Top Overlay and 
+                     Pad Accel-7(2254.488mil,3831.26mil)  Top Layer
+   Violation between Track (2148.189mil,3903.701mil)(2148.189mil,3921.417mil)  Top Overlay and 
+                     Pad Accel-1(2160mil,3910mil)  Top Layer
+   Violation between Track (2156.457mil,3929.685mil)(2170.236mil,3929.685mil)  Top Overlay and 
+                     Pad Accel-1(2160mil,3910mil)  Top Layer
+   Violation between Track (2148.189mil,3921.417mil)(2156.457mil,3929.685mil)  Top Overlay and 
+                     Pad Accel-1(2160mil,3910mil)  Top Layer
+   Violation between Track (2148.189mil,3903.701mil)(2148.189mil,3921.417mil)  Top Overlay and 
+                     Pad Accel-2(2160mil,3890.315mil)  Top Layer
+   Violation between Track (2148.189mil,3811.575mil)(2148.189mil,3829.685mil)  Top Overlay and 
+                     Pad Accel-4(2160mil,3850.945mil)  Top Layer
+   Violation between Track (2148.189mil,3811.575mil)(2148.189mil,3829.685mil)  Top Overlay and 
+                     Pad Accel-5(2160mil,3831.26mil)  Top Layer
+   Violation between Track (2148.583mil,3811.181mil)(2163.937mil,3811.181mil)  Top Overlay and 
+                     Pad Accel-5(2160mil,3831.26mil)  Top Layer
+   Violation between Track (2395mil,3930.59mil)(2403.858mil,3930.59mil)  Top Overlay and 
+                     Pad MAG-16(2415.669mil,3925.669mil)  Top Layer
+   Violation between Track (2486.535mil,3930.59mil)(2500.315mil,3930.59mil)  Top Overlay and 
+                     Pad MAG-13(2474.724mil,3925.669mil)  Top Layer
+   Violation between Track (2500.315mil,3916.811mil)(2500.315mil,3930.59mil)  Top Overlay and 
+                     Pad MAG-12(2495.394mil,3905mil)  Top Layer
+   Violation between Track (2500.315mil,3820.354mil)(2500.315mil,3834.134mil)  Top Overlay and 
+                     Pad MAG-9(2495.394mil,3845.945mil)  Top Layer
+   Violation between Track (2486.535mil,3820.354mil)(2500.315mil,3820.354mil)  Top Overlay and 
+                     Pad MAG-8(2474.724mil,3825.276mil)  Top Layer
+   Violation between Track (2390.079mil,3820.354mil)(2403.858mil,3820.354mil)  Top Overlay and 
+                     Pad MAG-5(2415.669mil,3825.276mil)  Top Layer
+   Violation between Track (2390.079mil,3820.354mil)(2390.079mil,3834.134mil)  Top Overlay and 
+                     Pad MAG-4(2395mil,3845.945mil)  Top Layer
+   Violation between Track (2390.079mil,3916.811mil)(2390.079mil,3925.669mil)  Top Overlay and 
+                     Pad MAG-1(2395mil,3905mil)  Top Layer
+   Violation between Text "Gyro" (2155mil,4315mil)  Top Overlay and 
+                     Pad Gyro-24(2255.787mil,4290.709mil)  Top Layer
+   Violation between Text "C21" (2200mil,4070mil)  Top Overlay and 
+                     Pad Gyro-9(2295.157mil,4129.291mil)  Top Layer
+   Violation between Text "C21" (2200mil,4070mil)  Top Overlay and 
+                     Pad Gyro-8(2275.472mil,4129.291mil)  Top Layer
+   Violation between Text "C21" (2200mil,4070mil)  Top Overlay and 
+                     Pad Gyro-7(2255.787mil,4129.291mil)  Top Layer
+   Violation between Track (2517.086mil,3669.686mil)(2517.086mil,3722.834mil)  Top Overlay and 
+                     Pad C18-1(2460mil,3709.056mil)  Top Layer
+   Violation between Track (2402.914mil,3669.686mil)(2402.914mil,3722.834mil)  Top Overlay and 
+                     Pad C18-1(2460mil,3709.056mil)  Top Layer
+   Violation between Track (2517.086mil,3577.166mil)(2519.056mil,3577.166mil)  Top Overlay and 
+                     Pad C18-2(2460mil,3590.944mil)  Top Layer
+   Violation between Track (2400.944mil,3577.166mil)(2402.914mil,3577.166mil)  Top Overlay and 
+                     Pad C18-2(2460mil,3590.944mil)  Top Layer
+   Violation between Text "Accel" (2135mil,3955mil)  Top Overlay and 
+                     Pad C21-1(2279.528mil,4025mil)  Top Layer
+   Violation between Text "MAG" (2387mil,3964mil)  Top Overlay and 
+                     Pad C17-2(2499.528mil,4040mil)  Top Layer
+Rule Violations :31
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "Designed by Jianer Shi and Borui Chen" (2390mil,3500mil)  Bottom Overlay and 
+                     Text "10/19/2011" (2390mil,3475mil)  Bottom Overlay
+   Violation between Text "3D Mouse Finger Board v2 Commercial" (2390mil,3525mil)  Bottom Overlay and 
+                     Text "Designed by Jianer Shi and Borui Chen" (2390mil,3500mil)  Bottom Overlay
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 45
+Time Elapsed        : 00:00:02

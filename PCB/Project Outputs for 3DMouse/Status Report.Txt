@@ -1,9 +1,28 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [3DMouse.PrjPcb]
+   Generated File[Main Board.GTL]
+   Generated File[Main Board.GBL]
+   Generated File[Main Board.GPB]
+   Generated File[Main Board.GPT]
+   Generated File[Main Board.GTO]
+   Generated File[Main Board.GTP]
+   Generated File[Main Board.GTS]
+   Generated File[Main Board.GBS]
+   Generated File[Main Board.GBP]
+   Generated File[Main Board.GBO]
+   Generated File[Main Board.GM1]
+   Generated File[Main Board.GM13]
+   Generated File[Main Board.GM15]
+   Generated File[Main Board.GKO]
+   Generated File[Main Board.GD1]
+   Generated File[Main Board.GG1]
+   Generated File[Main Board.RUL]
+   Generated File[Main Board.EXTREP]
+   Generated File[Main Board.REP]
 
 
-Files Generated   : 0
+Files Generated   : 19
 Documents Printed : 0
 
-Finished Output Generation At 4:13:00 PM On 9/21/2011
+Finished Output Generation At 11:05:09 AM On 10/19/2011

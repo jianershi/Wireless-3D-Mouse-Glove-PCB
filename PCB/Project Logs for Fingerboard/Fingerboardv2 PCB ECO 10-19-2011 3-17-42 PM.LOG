@@ -1,0 +1,89 @@
+Added Component: Designator=Accel(LGA12)
+Added Component: Designator=C16(CAPC2012L)
+Added Component: Designator=C17(CAPC2012L)
+Added Component: Designator=C18(TC3528-1411)
+Added Component: Designator=C19(CAPC2012L)
+Added Component: Designator=C20(CAPC2012L)
+Added Component: Designator=C21(CAPC2012L)
+Added Component: Designator=C22(CAPC2012L)
+Added Component: Designator=Gyro(QFN50P400X400-24V8M)
+Added Component: Designator=INT(HDR1X3)
+Added Component: Designator=MAG(HMC5883L)
+Added Component: Designator=Power(HDR1X2)
+Added Component: Designator=TWI(HDR1X2)
+Added Pin To Net: NetName=3.3VCC Pin=Accel-2
+Added Pin To Net: NetName=3.3VCC Pin=Accel-5
+Added Pin To Net: NetName=3.3VCC Pin=Accel-10
+Added Pin To Net: NetName=3.3VCC Pin=C16-2
+Added Pin To Net: NetName=3.3VCC Pin=C19-2
+Added Pin To Net: NetName=3.3VCC Pin=C20-2
+Added Pin To Net: NetName=3.3VCC Pin=Gyro-8
+Added Pin To Net: NetName=3.3VCC Pin=Gyro-13
+Added Pin To Net: NetName=3.3VCC Pin=MAG-2
+Added Pin To Net: NetName=3.3VCC Pin=MAG-4
+Added Pin To Net: NetName=3.3VCC Pin=MAG-13
+Added Pin To Net: NetName=3.3VCC Pin=Power-2
+Added Net: Name=3.3VCC
+Added Pin To Net: NetName=AUX_TWI0 Pin=Gyro-7
+Added Net: Name=AUX_TWI0
+Added Pin To Net: NetName=AUX_TWI1 Pin=Gyro-6
+Added Net: Name=AUX_TWI1
+Added Pin To Net: NetName=GND Pin=Accel-3
+Added Pin To Net: NetName=GND Pin=Accel-8
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=Gyro-9
+Added Pin To Net: NetName=GND Pin=Gyro-11
+Added Pin To Net: NetName=GND Pin=Gyro-18
+Added Pin To Net: NetName=GND Pin=MAG-9
+Added Pin To Net: NetName=GND Pin=MAG-11
+Added Pin To Net: NetName=GND Pin=Power-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAccel_4 Pin=Accel-4
+Added Pin To Net: NetName=NetAccel_4 Pin=INT-2
+Added Net: Name=NetAccel_4
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=MAG-8
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=MAG-12
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=MAG-10
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=Gyro-10
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=Gyro-20
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetGyro_12 Pin=Gyro-12
+Added Pin To Net: NetName=NetGyro_12 Pin=INT-1
+Added Net: Name=NetGyro_12
+Added Pin To Net: NetName=NetINT_3 Pin=INT-3
+Added Pin To Net: NetName=NetINT_3 Pin=MAG-15
+Added Net: Name=NetINT_3
+Added Pin To Net: NetName=TWI0 Pin=Accel-7
+Added Pin To Net: NetName=TWI0 Pin=Gyro-23
+Added Pin To Net: NetName=TWI0 Pin=MAG-1
+Added Pin To Net: NetName=TWI0 Pin=TWI-1
+Added Net: Name=TWI0
+Added Pin To Net: NetName=TWI1 Pin=Accel-9
+Added Pin To Net: NetName=TWI1 Pin=Gyro-24
+Added Pin To Net: NetName=TWI1 Pin=MAG-16
+Added Pin To Net: NetName=TWI1 Pin=TWI-2
+Added Net: Name=TWI1
+Added Class: Name=Fingerboard
+Added Class: Name=U_BMA180
+Added Class: Name=U_HMC5883L
+Added Class: Name=U_IMU3000
+Added Class: Name=AUX_TWI[1..0]
+Added Class: Name=TWI[1..0]
+Added Room: Name=Fingerboard
+Added Room: Name=U_BMA180
+Added Room: Name=U_HMC5883L
+Added Room: Name=U_IMU3000

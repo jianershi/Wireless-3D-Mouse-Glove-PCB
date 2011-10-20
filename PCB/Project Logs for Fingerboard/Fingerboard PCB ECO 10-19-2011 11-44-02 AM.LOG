@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Power
+Change Component Designator: OldDesignator=P2 NewDesignator=TWI
+Change Component Designator: OldDesignator=P3 NewDesignator=INT
+Change Net Name : Old Net Name=NetMAG_15 New Net Name=NetINT_3

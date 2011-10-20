@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Fingerboardv2.PcbDoc   10/19/2011  10:48:09 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fingerboardv2.TXT
+EIA File   : Fingerboardv2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        25mil (0.635mm)          Round          13               2.09 Inch (53.11 mm)
+T2        35.4mil (0.89916mm)      Round          4                0.56 Inch (14.10 mm)
+---------------------------------------------------------------------------
+Totals                                            17               2.65 Inch (67.21 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

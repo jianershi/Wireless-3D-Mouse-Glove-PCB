@@ -1,0 +1,10 @@
+Added Component: Designator=Accel(BMA180 - ECESHOP)
+Added Pin To Net: NetName=3.3VCC Pin=Accel-2
+Added Pin To Net: NetName=GND Pin=Accel-3
+Added Pin To Net: NetName=NetAccel_4 Pin=Accel-4
+Added Pin To Net: NetName=3.3VCC Pin=Accel-5
+Added Pin To Net: NetName=TWI0 Pin=Accel-7
+Added Pin To Net: NetName=GND Pin=Accel-8
+Added Pin To Net: NetName=TWI1 Pin=Accel-9
+Added Pin To Net: NetName=3.3VCC Pin=Accel-10
+Added Member To Class: ClassName=U_BMA180 Member=Component Accel BMA180
