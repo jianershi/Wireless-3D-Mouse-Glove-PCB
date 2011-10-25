@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=RESC2012N
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2012L New Footprint=CAPC2012N
+Change Component Footprint: Designator=L1 Old Footprint=j1-0603 New Footprint=INDC1608N
+Change Component Footprint: Designator=L2 Old Footprint=j1-0603 New Footprint=INDC1608N
+Change Component Footprint: Designator=L3 Old Footprint=j1-0603 New Footprint=INDC1608N
+Added Room: Name=2.4Ghz Chip Board
+Added Room: Name=U_nRF24L01+
