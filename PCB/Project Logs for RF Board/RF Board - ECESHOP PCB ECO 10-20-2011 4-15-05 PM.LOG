@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L1 Old Footprint=0603 New Footprint=j1-0603
+Change Component Footprint: Designator=L2 Old Footprint=0603 New Footprint=j1-0603
+Change Component Footprint: Designator=L3 Old Footprint=0603 New Footprint=j1-0603
+Added Room: Name=2.4Ghz Chip Board
+Added Room: Name=U_nRF24L01+

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RF Board.PrjPcb]
+   Generated File[RF Board - ECESHOP.TXT]
+   Generated File[RF Board - ECESHOP.DRL]
+   Generated File[RF Board - ECESHOP.LDP]
+   Generated File[RF Board - ECESHOP.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 4:20:29 PM On 10/20/2011

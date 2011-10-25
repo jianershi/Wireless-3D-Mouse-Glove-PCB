@@ -1,0 +1,78 @@
+Added Component: Designator=C1(CAPC2012L)
+Added Component: Designator=C2(CAPC2012L)
+Added Component: Designator=C3(CAPC2012L)
+Added Component: Designator=C4(CAPC2012L)
+Added Component: Designator=C5(CAPC2012L)
+Added Component: Designator=C6(CAPC2012L)
+Added Component: Designator=C7(CAPC2012L)
+Added Component: Designator=C8(CAPC2012L)
+Added Component: Designator=C9(CAPC2012L)
+Added Component: Designator=L1(0603)
+Added Component: Designator=L2(0603)
+Added Component: Designator=L3(0603)
+Added Component: Designator=P1(HDR2X4)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=R1(C0805)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=3.3VCC Pin=C2-2
+Added Pin To Net: NetName=3.3VCC Pin=C3-2
+Added Pin To Net: NetName=3.3VCC Pin=P1-2
+Added Net: Name=3.3VCC
+Added Pin To Net: NetName=CE Pin=P1-3
+Added Net: Name=CE
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=P1-8
+Added Net: Name=IRQ
+Added Pin To Net: NetName=Net2.4Ghz Chip_9 Pin=C8-2
+Added Pin To Net: NetName=Net2.4Ghz Chip_9 Pin=R2-1
+Added Pin To Net: NetName=Net2.4Ghz Chip_9 Pin=Y1-1
+Added Net: Name=Net2.4Ghz Chip_9
+Added Pin To Net: NetName=Net2.4Ghz Chip_10 Pin=C9-2
+Added Pin To Net: NetName=Net2.4Ghz Chip_10 Pin=R2-2
+Added Pin To Net: NetName=Net2.4Ghz Chip_10 Pin=Y1-2
+Added Net: Name=Net2.4Ghz Chip_10
+Added Pin To Net: NetName=Net2.4Ghz Chip_11 Pin=C6-2
+Added Pin To Net: NetName=Net2.4Ghz Chip_11 Pin=C7-2
+Added Pin To Net: NetName=Net2.4Ghz Chip_11 Pin=L3-1
+Added Net: Name=Net2.4Ghz Chip_11
+Added Pin To Net: NetName=Net2.4Ghz Chip_12 Pin=L2-1
+Added Pin To Net: NetName=Net2.4Ghz Chip_12 Pin=L3-2
+Added Net: Name=Net2.4Ghz Chip_12
+Added Pin To Net: NetName=Net2.4Ghz Chip_13 Pin=L1-1
+Added Pin To Net: NetName=Net2.4Ghz Chip_13 Pin=L2-2
+Added Net: Name=Net2.4Ghz Chip_13
+Added Pin To Net: NetName=Net2.4Ghz Chip_16 Pin=R1-1
+Added Net: Name=Net2.4Ghz Chip_16
+Added Pin To Net: NetName=Net2.4Ghz Chip_19 Pin=C1-2
+Added Net: Name=Net2.4Ghz Chip_19
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=SPI0 Pin=P1-4
+Added Net: Name=SPI0
+Added Pin To Net: NetName=SPI1 Pin=P1-5
+Added Net: Name=SPI1
+Added Pin To Net: NetName=SPI2 Pin=P1-6
+Added Net: Name=SPI2
+Added Pin To Net: NetName=SPI3 Pin=P1-7
+Added Net: Name=SPI3
+Added Class: Name=2.4Ghz Chip Board
+Added Class: Name=U_nRF24L01+
+Added Class: Name=SPI[3..0]
+Added Room: Name=2.4Ghz Chip Board
+Added Room: Name=U_nRF24L01+

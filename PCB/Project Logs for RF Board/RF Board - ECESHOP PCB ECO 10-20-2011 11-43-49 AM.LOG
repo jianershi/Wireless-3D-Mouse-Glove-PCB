@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=2.4Ghz Chip Old Footprint=QFN50P400X400-20V1L New Footprint=nRF24L01+ - ECESHOP
+Added Room: Name=2.4Ghz Chip Board
+Added Room: Name=U_nRF24L01+
