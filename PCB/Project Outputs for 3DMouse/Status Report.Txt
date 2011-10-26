@@ -1,28 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [3DMouse.PrjPcb]
-   Generated File[Main Board.GTL]
-   Generated File[Main Board.GBL]
-   Generated File[Main Board.GPB]
-   Generated File[Main Board.GPT]
-   Generated File[Main Board.GTO]
-   Generated File[Main Board.GTP]
-   Generated File[Main Board.GTS]
-   Generated File[Main Board.GBS]
-   Generated File[Main Board.GBP]
-   Generated File[Main Board.GBO]
-   Generated File[Main Board.GM1]
-   Generated File[Main Board.GM13]
-   Generated File[Main Board.GM15]
-   Generated File[Main Board.GKO]
-   Generated File[Main Board.GD1]
-   Generated File[Main Board.GG1]
-   Generated File[Main Board.RUL]
-   Generated File[Main Board.EXTREP]
-   Generated File[Main Board.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [3DMouse.PrjPcb]
+   Generated File[PCB1.TXT]
+   Generated File[PCB1.DRL]
+   Generated File[PCB1.LDP]
+   Generated File[PCB1.DRR]
 
 
-Files Generated   : 19
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 11:05:09 AM On 10/19/2011
+Finished Output Generation At 7:35:19 PM On 10/25/2011
