@@ -1,0 +1,137 @@
+Added Component: Designator=*(Mini USB)
+Added Component: Designator=C1(CAPC2012L)
+Added Component: Designator=C2(CAPC2012L)
+Added Component: Designator=C3(CAPC2012L)
+Added Component: Designator=C4(CAPC2012L)
+Added Component: Designator=C5(CAPC2012L)
+Added Component: Designator=C6(CAPC2012L)
+Added Component: Designator=C7(CAPC2012L)
+Added Component: Designator=C8(TC3216-1206)
+Added Component: Designator=C9(TC3216-1206)
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=D2(3.2X1.6X1.1)
+Added Component: Designator=Ferrite(C0805)
+Added Component: Designator=P1(HDR2X3)
+Added Component: Designator=P2(HDR2X4)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=R1(C0805)
+Added Component: Designator=R2(C0805)
+Added Component: Designator=R3(C0805)
+Added Component: Designator=R4(C0805)
+Added Component: Designator=U1(32A_N)
+Added Component: Designator=U2(SSOP-28_N)
+Added Component: Designator=U3(MP04A_N)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=3.3VCC Pin=C9-1
+Added Pin To Net: NetName=3.3VCC Pin=P2-2
+Added Pin To Net: NetName=3.3VCC Pin=U3-2
+Added Pin To Net: NetName=3.3VCC Pin=U3-4
+Added Net: Name=3.3VCC
+Added Pin To Net: NetName=5VCC Pin=C4-2
+Added Pin To Net: NetName=5VCC Pin=C5-2
+Added Pin To Net: NetName=5VCC Pin=C6-2
+Added Pin To Net: NetName=5VCC Pin=C8-1
+Added Pin To Net: NetName=5VCC Pin=Ferrite-2
+Added Pin To Net: NetName=5VCC Pin=P1-2
+Added Pin To Net: NetName=5VCC Pin=R1-2
+Added Pin To Net: NetName=5VCC Pin=R2-1
+Added Pin To Net: NetName=5VCC Pin=R3-1
+Added Pin To Net: NetName=5VCC Pin=R4-1
+Added Pin To Net: NetName=5VCC Pin=U1-4
+Added Pin To Net: NetName=5VCC Pin=U1-6
+Added Pin To Net: NetName=5VCC Pin=U1-18
+Added Pin To Net: NetName=5VCC Pin=U1-20
+Added Pin To Net: NetName=5VCC Pin=U2-4
+Added Pin To Net: NetName=5VCC Pin=U2-20
+Added Pin To Net: NetName=5VCC Pin=U3-3
+Added Net: Name=5VCC
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=P1-5
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=R1-1
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=U1-29
+Added Net: Name=\R\E\S\E\T\
+Added Pin To Net: NetName=CE Pin=P2-3
+Added Pin To Net: NetName=CE Pin=U1-23
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=P2-4
+Added Pin To Net: NetName=CSN Pin=U1-14
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-26
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=P2-8
+Added Pin To Net: NetName=IRQ Pin=U1-24
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=P1-1
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P1-4
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C1-1
+Added Pin To Net: NetName=Net*_1 Pin=Ferrite-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-7
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-8
+Added Pin To Net: NetName=NetC3_2 Pin=Y1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U2-17
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-30
+Added Pin To Net: NetName=NetD1_2 Pin=U2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=U1-31
+Added Pin To Net: NetName=NetD2_2 Pin=U2-5
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-19
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=SCK Pin=P1-3
+Added Pin To Net: NetName=SCK Pin=P2-5
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=USBDM Pin=*-2
+Added Pin To Net: NetName=USBDM Pin=U2-16
+Added Net: Name=USBDM
+Added Pin To Net: NetName=USBDP Pin=*-3
+Added Pin To Net: NetName=USBDP Pin=U2-15
+Added Net: Name=USBDP
+Added Class: Name=2.4ghz Receiver Board
+Added Class: Name=5V to 3.3V
+Added Room: Name=2.4ghz Receiver Board
+Added Room: Name=5V to 3.3V

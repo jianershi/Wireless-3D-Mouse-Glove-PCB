@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Receiver Board.PcbDoc   10/27/2011  7:33:06 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Receiver Board.TXT
+EIA File   : Receiver Board.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        25mil (0.635mm)          Round          29               6.13 Inch (155.82 mm)
+T2        27.6mil (0.70104mm)      Round          2                0.12 Inch (3.10 mm)
+T3        35.4mil (0.89916mm)      Round          14               1.51 Inch (38.28 mm)
+---------------------------------------------------------------------------
+Totals                                            45               7.76 Inch (197.20 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

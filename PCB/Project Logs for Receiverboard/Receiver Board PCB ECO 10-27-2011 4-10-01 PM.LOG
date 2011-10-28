@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=MiniUSB
+Change Component Designator: OldDesignator=P1 NewDesignator=ISP
+Change Component Designator: OldDesignator=P2 NewDesignator=RF Board
+Change Component Designator: OldDesignator=P3 NewDesignator=Mech1
+Change Component Designator: OldDesignator=P4 NewDesignator=Mech2
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetC1_1
