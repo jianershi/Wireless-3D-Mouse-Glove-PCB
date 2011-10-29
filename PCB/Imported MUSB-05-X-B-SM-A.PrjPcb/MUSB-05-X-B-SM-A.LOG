@@ -1,0 +1,12 @@
+Importer Log Report
+Project : MUSB-05-X-B-SM-A.PrjPcb
+
+Section : Document - C:\Users\Paul Shi\git_project\ece445\PCB\MUSB-05-X-B-SM-A.asc
+    Section : Load Messages
+        Error   : Expected integer in line: 5 at position 29
+    EndSection
+
+    Section : Import Messages
+        Error   : No comment found for component: J1
+    EndSection
+EndSection

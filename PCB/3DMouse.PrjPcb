@@ -367,22 +367,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=mini_USB.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document23]
 DocumentPath=nRF24L01+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -398,7 +382,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document24]
+[Document23]
 DocumentPath=SOT23-5-withhole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +398,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document25]
+[Document24]
 DocumentPath=SPX3819.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +414,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document26]
+[Document25]
 DocumentPath=TPS7333Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +430,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document27]
+[Document26]
 DocumentPath=Autorouted Main Board Gerber.cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,8 +446,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document28]
+[Document27]
 DocumentPath=Autorouted Main Board Gerber NC Drill.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document28]
+DocumentPath=Mini USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

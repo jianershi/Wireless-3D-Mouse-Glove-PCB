@@ -1,0 +1,6 @@
+Added Component: Designator=MiniUSB(MINI USB)
+Added Pin To Net: NetName=NetC1_1 Pin=MiniUSB-1
+Added Pin To Net: NetName=USBDM Pin=MiniUSB-2
+Added Pin To Net: NetName=USBDP Pin=MiniUSB-3
+Added Pin To Net: NetName=GND Pin=MiniUSB-5
+Added Member To Class: ClassName=2.4ghz Receiver Board Member=Component MiniUSB Mini USB
