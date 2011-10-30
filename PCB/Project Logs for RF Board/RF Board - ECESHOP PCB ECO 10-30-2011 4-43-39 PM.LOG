@@ -1,0 +1,22 @@
+Added Component: Designator=2.4Ghz Chip(nrf24l01+)
+Added Pin To Net: NetName=CE Pin=2.4Ghz Chip-1
+Added Pin To Net: NetName=SPI0 Pin=2.4Ghz Chip-2
+Added Pin To Net: NetName=SPI1 Pin=2.4Ghz Chip-3
+Added Pin To Net: NetName=SPI2 Pin=2.4Ghz Chip-4
+Added Pin To Net: NetName=SPI3 Pin=2.4Ghz Chip-5
+Added Pin To Net: NetName=IRQ Pin=2.4Ghz Chip-6
+Added Pin To Net: NetName=3.3VCC Pin=2.4Ghz Chip-7
+Added Pin To Net: NetName=GND Pin=2.4Ghz Chip-8
+Added Pin To Net: NetName=Net2.4Ghz Chip_9 Pin=2.4Ghz Chip-9
+Added Pin To Net: NetName=Net2.4Ghz Chip_10 Pin=2.4Ghz Chip-10
+Added Pin To Net: NetName=Net2.4Ghz Chip_11 Pin=2.4Ghz Chip-11
+Added Pin To Net: NetName=Net2.4Ghz Chip_12 Pin=2.4Ghz Chip-12
+Added Pin To Net: NetName=Net2.4Ghz Chip_13 Pin=2.4Ghz Chip-13
+Added Pin To Net: NetName=GND Pin=2.4Ghz Chip-14
+Added Pin To Net: NetName=3.3VCC Pin=2.4Ghz Chip-15
+Added Pin To Net: NetName=Net2.4Ghz Chip_16 Pin=2.4Ghz Chip-16
+Added Pin To Net: NetName=GND Pin=2.4Ghz Chip-17
+Added Pin To Net: NetName=3.3VCC Pin=2.4Ghz Chip-18
+Added Pin To Net: NetName=Net2.4Ghz Chip_19 Pin=2.4Ghz Chip-19
+Added Pin To Net: NetName=GND Pin=2.4Ghz Chip-20
+Added Member To Class: ClassName=U_nRF24L01+ Member=Component 2.4Ghz Chip nRF24L01+

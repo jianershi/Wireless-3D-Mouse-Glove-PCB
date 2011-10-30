@@ -1,200 +1,166 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\RF Board - ECESHOP.PcbDoc
-Date     : 10/27/2011
-Time     : 3:47:45 PM
+Date     : 10/30/2011
+Time     : 4:55:54 PM
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (3820mil,3087.1mil)(3912.9mil,3087.1mil)  Top Layer
-Rule Violations :1
-
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay and 
-                     Track (2782.778mil,3670.182mil)(2782.778mil,3701.678mil)  Top Overlay
-   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
-                     Track (2795.832mil,3367.048mil)(2827.328mil,3367.048mil)  Top Overlay
-   Violation between Text "L2" (2792.86mil,3504.31mil)  Top Overlay and 
-                     Track (2791.068mil,3546.902mil)(2791.068mil,3578.398mil)  Top Overlay
-   Violation between Text "7" (2120mil,3300mil)  Top Overlay and 
-                     Track (2090mil,3310mil)(2290mil,3310mil)  Top Overlay
-   Violation between Text "8" (2220mil,3300mil)  Top Overlay and 
-                     Track (2090mil,3310mil)(2290mil,3310mil)  Top Overlay
-   Violation between Text "1" (2120mil,3740mil)  Top Overlay and 
-                     Track (2090mil,3710mil)(2290mil,3710mil)  Top Overlay
-   Violation between Text "2" (2220mil,3760mil)  Top Overlay and 
-                     Track (2090mil,3710mil)(2290mil,3710mil)  Top Overlay
-   Violation between Text "L3" (2811.77mil,3722.93mil)  Top Overlay and 
-                     Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay
-Rule Violations :8
-
-Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
-   Violation between Track (2782.778mil,3670.182mil)(2782.778mil,3701.678mil)  Top Overlay and 
-                     Pad L3-1(2814.274mil,3685.93mil)  Top Layer
-   Violation between Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay and 
-                     Pad L3-1(2814.274mil,3685.93mil)  Top Layer
-   Violation between Track (2795.832mil,3367.048mil)(2827.328mil,3367.048mil)  Top Overlay and 
-                     Pad L2-1(2811.58mil,3398.544mil)  Top Layer
-   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
-                     Pad L2-1(2811.58mil,3398.544mil)  Top Layer
-   Violation between Track (2791.068mil,3546.902mil)(2791.068mil,3578.398mil)  Top Overlay and 
-                     Pad L1-1(2822.564mil,3562.65mil)  Top Layer
-   Violation between Text "L2" (2792.86mil,3504.31mil)  Top Overlay and 
-                     Pad L1-1(2822.564mil,3562.65mil)  Top Layer
-   Violation between Text "C3" (2871.64mil,3508.9mil)  Top Overlay and 
-                     Pad L1-2(2885.556mil,3562.65mil)  Top Layer
-   Violation between Text "C8" (2894.88mil,3835.47mil)  Top Overlay and 
-                     Pad C9-1(2865.555mil,3887.01mil)  Top Layer
-   Violation between Text "C8" (2894.88mil,3835.47mil)  Top Overlay and 
-                     Pad C9-2(2932.485mil,3887.01mil)  Top Layer
-   Violation between Text "C5" (2948.12mil,3742.85mil)  Top Overlay and 
-                     Pad C8-1(2913.416mil,3776.47mil)  Top Layer
-   Violation between Text "C5" (2948.12mil,3742.85mil)  Top Overlay and 
-                     Pad C8-2(2980.345mil,3776.47mil)  Top Layer
-   Violation between Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay and 
-                     Pad C7-2(2528.465mil,3750mil)  Top Layer
-   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
-                     Pad C3-1(2899.64mil,3392.436mil)  Top Layer
-   Violation between Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay and 
-                     Pad R2-1(2770mil,3775mil)  Top Layer
-   Violation between Text "L3" (2811.77mil,3722.93mil)  Top Overlay and 
-                     Pad R2-2(2829.055mil,3775mil)  Top Layer
-   Violation between Text "2.4Ghz Chip" (2553.17mil,3706.66mil)  Top Overlay and 
-                     Pad R2-2(2829.055mil,3775mil)  Top Layer
-   Violation between Track (2731.25mil,3121.458mil)(2731.25mil,3168.702mil)  Bottom Overlay and 
-                     Pad R1-2(2766.683mil,3145.08mil)  Bottom Layer
-   Violation between Track (2731.25mil,3121.458mil)(2731.25mil,3168.702mil)  Bottom Overlay and 
-                     Pad R1-1(2695.817mil,3145.08mil)  Bottom Layer
-Rule Violations :18
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Pad 2.4Ghz Chip-1(2598.15mil,3614.37mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-20(2630.63mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-19(2650.315mil,3646.85mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-20(2630.63mil,3646.85mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-20(2630.63mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-18(2670mil,3646.85mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-19(2650.315mil,3646.85mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-19(2650.315mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-17(2689.685mil,3646.85mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-18(2670mil,3646.85mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-18(2670mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-16(2709.37mil,3646.85mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-17(2689.685mil,3646.85mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-17(2689.685mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-15(2741.85mil,3614.37mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-16(2709.37mil,3646.85mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-16(2709.37mil,3646.85mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-14(2741.85mil,3594.685mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-15(2741.85mil,3614.37mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-15(2741.85mil,3614.37mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-13(2741.85mil,3575mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-14(2741.85mil,3594.685mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-14(2741.85mil,3594.685mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-12(2741.85mil,3555.315mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-13(2741.85mil,3575mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-13(2741.85mil,3575mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-11(2741.85mil,3535.63mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-12(2741.85mil,3555.315mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-12(2741.85mil,3555.315mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-10(2709.37mil,3503.15mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-11(2741.85mil,3535.63mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-11(2741.85mil,3535.63mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-9(2689.685mil,3503.15mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-10(2709.37mil,3503.15mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-10(2709.37mil,3503.15mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-8(2670mil,3503.15mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-9(2689.685mil,3503.15mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-9(2689.685mil,3503.15mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-7(2650.315mil,3503.15mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-8(2670mil,3503.15mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-8(2670mil,3503.15mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-6(2630.63mil,3503.15mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-7(2650.315mil,3503.15mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-7(2650.315mil,3503.15mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-5(2598.15mil,3535.63mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-6(2630.63mil,3503.15mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-6(2630.63mil,3503.15mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-4(2598.15mil,3555.315mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-5(2598.15mil,3535.63mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-5(2598.15mil,3535.63mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-3(2598.15mil,3575mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-4(2598.15mil,3555.315mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-4(2598.15mil,3555.315mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-2(2598.15mil,3594.685mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-3(2598.15mil,3575mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-3(2598.15mil,3575mil)  Top Layer
-   Violation between Pad 2.4Ghz Chip-1(2598.15mil,3614.37mil)  Top Layer and 
-                     Pad 2.4Ghz Chip-2(2598.15mil,3594.685mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-2(2598.15mil,3594.685mil)  Top Layer
-   Violation between Area Fill (2622.172mil,3526.906mil) (2717.581mil,3623.48mil)  Top Solder and 
-                     Pad 2.4Ghz Chip-1(2598.15mil,3614.37mil)  Top Layer
-   Violation between Pad C9-2(2932.485mil,3887.01mil)  Top Layer and 
-                     Pad C9-1(2865.555mil,3887.01mil)  Top Layer
-   Violation between Pad C8-2(2980.345mil,3776.47mil)  Top Layer and 
-                     Pad C8-1(2913.416mil,3776.47mil)  Top Layer
-   Violation between Pad C7-2(2528.465mil,3750mil)  Top Layer and 
-                     Pad C7-1(2461.535mil,3750mil)  Top Layer
-   Violation between Pad C6-2(3080.62mil,3548.385mil)  Top Layer and 
-                     Pad C6-1(3080.62mil,3481.456mil)  Top Layer
-   Violation between Pad C5-2(2966.655mil,3683.85mil)  Top Layer and 
-                     Pad C5-1(3033.584mil,3683.85mil)  Top Layer
-   Violation between Pad C4-2(2992.87mil,3466.615mil)  Top Layer and 
-                     Pad C4-1(2992.87mil,3399.686mil)  Top Layer
-   Violation between Pad C3-2(2899.64mil,3459.365mil)  Top Layer and 
-                     Pad C3-1(2899.64mil,3392.436mil)  Top Layer
-   Violation between Pad C2-2(2853.025mil,3306.98mil)  Top Layer and 
-                     Pad C2-1(2919.954mil,3306.98mil)  Top Layer
-   Violation between Pad C1-2(2538.465mil,3310mil)  Top Layer and 
-                     Pad C1-1(2471.535mil,3310mil)  Top Layer
-   Violation between Pad R2-2(2829.055mil,3775mil)  Top Layer and 
-                     Pad R2-1(2770mil,3775mil)  Top Layer
-Rule Violations :50
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=24mil) (Max=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=8mil) (All)
+Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=8.1mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(All)
+Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=8mil) (All)
 Rule Violations :0
 
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
 
-Violations Detected : 77
-Time Elapsed        : 00:00:00
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=24mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad 2.4Ghz Chip-2(2568.286mil,3610.435mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-1(2568.286mil,3630.12mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-3(2568.286mil,3590.75mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-2(2568.286mil,3610.435mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-4(2568.286mil,3571.065mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-3(2568.286mil,3590.75mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-5(2568.286mil,3551.38mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-4(2568.286mil,3571.065mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-7(2627.341mil,3512.01mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-6(2607.656mil,3512.01mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-8(2647.026mil,3512.01mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-7(2627.341mil,3512.01mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-9(2666.711mil,3512.01mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-8(2647.026mil,3512.01mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-10(2686.396mil,3512.01mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-9(2666.711mil,3512.01mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-12(2725.766mil,3571.065mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-11(2725.766mil,3551.38mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-13(2725.766mil,3590.75mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-12(2725.766mil,3571.065mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-14(2725.766mil,3610.435mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-13(2725.766mil,3590.75mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-15(2725.766mil,3630.12mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-14(2725.766mil,3610.435mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-17(2666.711mil,3669.49mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-16(2686.396mil,3669.49mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-18(2647.026mil,3669.49mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-17(2666.711mil,3669.49mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-19(2627.341mil,3669.49mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-18(2647.026mil,3669.49mil)  Top Layer
+   Violation between Pad 2.4Ghz Chip-20(2607.656mil,3669.49mil)  Top Layer and 
+                     Pad 2.4Ghz Chip-19(2627.341mil,3669.49mil)  Top Layer
+   Violation between Pad R2-1(2770mil,3775mil)  Top Layer and 
+                     Pad R2-2(2829.055mil,3775mil)  Top Layer
+   Violation between Pad C1-1(2471.535mil,3310mil)  Top Layer and 
+                     Pad C1-2(2538.465mil,3310mil)  Top Layer
+   Violation between Pad C2-1(2919.954mil,3306.98mil)  Top Layer and 
+                     Pad C2-2(2853.025mil,3306.98mil)  Top Layer
+   Violation between Pad C3-1(2899.64mil,3392.436mil)  Top Layer and 
+                     Pad C3-2(2899.64mil,3459.365mil)  Top Layer
+   Violation between Pad C4-1(2992.87mil,3399.686mil)  Top Layer and 
+                     Pad C4-2(2992.87mil,3466.615mil)  Top Layer
+   Violation between Pad C5-1(3033.584mil,3683.85mil)  Top Layer and 
+                     Pad C5-2(2966.655mil,3683.85mil)  Top Layer
+   Violation between Pad C6-1(3080.62mil,3481.456mil)  Top Layer and 
+                     Pad C6-2(3080.62mil,3548.385mil)  Top Layer
+   Violation between Pad C7-1(2461.535mil,3750mil)  Top Layer and 
+                     Pad C7-2(2528.465mil,3750mil)  Top Layer
+   Violation between Pad C8-1(2913.416mil,3776.47mil)  Top Layer and 
+                     Pad C8-2(2980.345mil,3776.47mil)  Top Layer
+   Violation between Pad C9-1(2865.555mil,3887.01mil)  Top Layer and 
+                     Pad C9-2(2932.485mil,3887.01mil)  Top Layer
+Rule Violations :26
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Track (2572.223mil,3639.963mil)(2572.223mil,3661.616mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-1(2568.286mil,3630.12mil)  Top Layer
+   Violation between Track (2572.223mil,3515.947mil)(2572.223mil,3541.537mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-5(2568.286mil,3551.38mil)  Top Layer
+   Violation between Track (2572.223mil,3515.947mil)(2597.814mil,3515.947mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-6(2607.656mil,3512.01mil)  Top Layer
+   Violation between Track (2696.239mil,3515.947mil)(2721.829mil,3515.947mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-10(2686.396mil,3512.01mil)  Top Layer
+   Violation between Track (2721.829mil,3515.947mil)(2721.829mil,3541.537mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-11(2725.766mil,3551.38mil)  Top Layer
+   Violation between Track (2721.829mil,3639.963mil)(2721.829mil,3665.553mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-15(2725.766mil,3630.12mil)  Top Layer
+   Violation between Track (2696.239mil,3665.553mil)(2721.829mil,3665.553mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-16(2686.396mil,3669.49mil)  Top Layer
+   Violation between Track (2576.16mil,3665.553mil)(2597.814mil,3665.553mil)  Top Overlay and 
+                     Pad 2.4Ghz Chip-20(2607.656mil,3669.49mil)  Top Layer
+   Violation between Text "L3" (2811.77mil,3722.93mil)  Top Overlay and 
+                     Pad R2-2(2829.055mil,3775mil)  Top Layer
+   Violation between Text "2.4Ghz Chip" (2553.65mil,3725.05mil)  Top Overlay and 
+                     Pad R2-2(2829.055mil,3775mil)  Top Layer
+   Violation between Text "2.4Ghz Chip" (2553.65mil,3725.05mil)  Top Overlay and 
+                     Pad R2-1(2770mil,3775mil)  Top Layer
+   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
+                     Pad C3-1(2899.64mil,3392.436mil)  Top Layer
+   Violation between Text "2.4Ghz Chip" (2553.65mil,3725.05mil)  Top Overlay and 
+                     Pad C7-2(2528.465mil,3750mil)  Top Layer
+   Violation between Text "C5" (2948.12mil,3742.85mil)  Top Overlay and 
+                     Pad C8-2(2980.345mil,3776.47mil)  Top Layer
+   Violation between Text "C5" (2948.12mil,3742.85mil)  Top Overlay and 
+                     Pad C8-1(2913.416mil,3776.47mil)  Top Layer
+   Violation between Text "C8" (2894.88mil,3835.47mil)  Top Overlay and 
+                     Pad C9-2(2932.485mil,3887.01mil)  Top Layer
+   Violation between Text "C8" (2894.88mil,3835.47mil)  Top Overlay and 
+                     Pad C9-1(2865.555mil,3887.01mil)  Top Layer
+   Violation between Text "C3" (2871.64mil,3508.9mil)  Top Overlay and 
+                     Pad L1-2(2885.556mil,3562.65mil)  Top Layer
+   Violation between Track (2791.068mil,3546.902mil)(2791.068mil,3578.398mil)  Top Overlay and 
+                     Pad L1-1(2822.564mil,3562.65mil)  Top Layer
+   Violation between Text "L2" (2792.86mil,3504.31mil)  Top Overlay and 
+                     Pad L1-1(2822.564mil,3562.65mil)  Top Layer
+   Violation between Track (2795.832mil,3367.048mil)(2827.328mil,3367.048mil)  Top Overlay and 
+                     Pad L2-1(2811.58mil,3398.544mil)  Top Layer
+   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
+                     Pad L2-1(2811.58mil,3398.544mil)  Top Layer
+   Violation between Track (2782.778mil,3670.182mil)(2782.778mil,3701.678mil)  Top Overlay and 
+                     Pad L3-1(2814.274mil,3685.93mil)  Top Layer
+   Violation between Text "2.4Ghz Chip" (2553.65mil,3725.05mil)  Top Overlay and 
+                     Pad L3-1(2814.274mil,3685.93mil)  Top Layer
+   Violation between Track (2731.25mil,3121.458mil)(2731.25mil,3168.702mil)  Bottom Overlay and 
+                     Pad R1-1(2695.817mil,3145.08mil)  Bottom Layer
+   Violation between Track (2731.25mil,3121.458mil)(2731.25mil,3168.702mil)  Bottom Overlay and 
+                     Pad R1-2(2766.683mil,3145.08mil)  Bottom Layer
+Rule Violations :26
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "1" (2120mil,3740mil)  Top Overlay and 
+                     Track (2090mil,3710mil)(2290mil,3710mil)  Top Overlay
+   Violation between Text "2" (2220mil,3760mil)  Top Overlay and 
+                     Track (2090mil,3710mil)(2290mil,3710mil)  Top Overlay
+   Violation between Text "8" (2220mil,3300mil)  Top Overlay and 
+                     Track (2090mil,3310mil)(2290mil,3310mil)  Top Overlay
+   Violation between Text "7" (2120mil,3300mil)  Top Overlay and 
+                     Track (2090mil,3310mil)(2290mil,3310mil)  Top Overlay
+   Violation between Text "L2" (2792.86mil,3504.31mil)  Top Overlay and 
+                     Track (2791.068mil,3546.902mil)(2791.068mil,3578.398mil)  Top Overlay
+   Violation between Text "C2" (2834.49mil,3365.98mil)  Top Overlay and 
+                     Track (2795.832mil,3367.048mil)(2827.328mil,3367.048mil)  Top Overlay
+   Violation between Text "L3" (2811.77mil,3722.93mil)  Top Overlay and 
+                     Text "2.4Ghz Chip" (2553.65mil,3725.05mil)  Top Overlay
+Rule Violations :7
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (3820mil,3087.1mil)(3912.9mil,3087.1mil)  Top Layer
+Rule Violations :1
+
+
+Violations Detected : 60
+Time Elapsed        : 00:00:01
