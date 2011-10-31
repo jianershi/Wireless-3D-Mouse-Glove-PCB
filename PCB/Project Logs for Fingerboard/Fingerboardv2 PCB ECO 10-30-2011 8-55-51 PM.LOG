@@ -1,0 +1,23 @@
+Added Component: Designator=Gyro(IMU3000_ECESHOP)
+Added Component: Designator=INT(HDR1X3)
+Added Pin To Net: NetName=AUX_TWI1 Pin=Gyro-6
+Added Pin To Net: NetName=AUX_TWI0 Pin=Gyro-7
+Added Pin To Net: NetName=3.3VCC Pin=Gyro-8
+Added Pin To Net: NetName=GND Pin=Gyro-9
+Added Pin To Net: NetName=NetC21_2 Pin=Gyro-10
+Added Pin To Net: NetName=GND Pin=Gyro-11
+Added Pin To Net: NetName=NetGyro_12 Pin=Gyro-12
+Added Pin To Net: NetName=3.3VCC Pin=Gyro-13
+Added Pin To Net: NetName=GND Pin=Gyro-18
+Added Pin To Net: NetName=NetC22_2 Pin=Gyro-20
+Added Pin To Net: NetName=TWI0 Pin=Gyro-23
+Added Pin To Net: NetName=TWI1 Pin=Gyro-24
+Added Pin To Net: NetName=NetGyro_12 Pin=INT-1
+Added Pin To Net: NetName=NetAccel_4 Pin=INT-2
+Added Pin To Net: NetName=NetINT_3 Pin=INT-3
+Added Member To Class: ClassName=U_IMU3000 Member=Component Gyro IMU3000
+Added Member To Class: ClassName=Fingerboard Member=Component INT
+Added Room: Name=Fingerboard
+Added Room: Name=U_BMA180
+Added Room: Name=U_HMC5883L
+Added Room: Name=U_IMU3000
