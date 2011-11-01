@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\Receiver Board.PcbDoc
 Date     : 10/31/2011
-Time     : 6:30:57 PM
+Time     : 9:25:25 PM
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -27,8 +27,8 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
                      Track (2355mil,3255mil)(2555mil,3255mil)  Top Overlay
    Violation between Text "2" (2425mil,3205mil)  Top Overlay and 
                      Track (2355mil,3255mil)(2555mil,3255mil)  Top Overlay
-   Violation between Text "C4" (3562mil,3789mil)  Bottom Overlay and 
-                     Track (3510mil,3786.378mil)(3510mil,3833.622mil)  Bottom Overlay
+   Violation between Text "C6" (3727mil,3779mil)  Bottom Overlay and 
+                     Track (3670mil,3776.378mil)(3670mil,3823.622mil)  Bottom Overlay
    Violation between Text "Y1" (3177mil,3466mil)  Bottom Overlay and 
                      Track (3146.26mil,3503.307mil)(3146.26mil,3916.693mil)  Bottom Overlay
    Violation between Text "Y1" (3177mil,3466mil)  Bottom Overlay and 
@@ -36,6 +36,10 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :13
 
 Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Track (3406.378mil,3655mil)(3453.622mil,3655mil)  Top Overlay and 
+                     Pad Ferrite-2(3430mil,3690.433mil)  Top Layer
+   Violation between Track (3406.378mil,3655mil)(3453.622mil,3655mil)  Top Overlay and 
+                     Pad Ferrite-1(3430mil,3619.567mil)  Top Layer
    Violation between Track (3777.126mil,3230.748mil)(3792.874mil,3230.748mil)  Top Overlay and 
                      Pad TXD-2(3818.465mil,3215mil)  Top Layer
    Violation between Track (3777.126mil,3199.252mil)(3792.874mil,3199.252mil)  Top Overlay and 
@@ -62,10 +66,6 @@ Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
                      Pad R1-2(3085.433mil,3750mil)  Top Layer
    Violation between Track (3050mil,3726.378mil)(3050mil,3773.622mil)  Top Overlay and 
                      Pad R1-1(3014.567mil,3750mil)  Top Layer
-   Violation between Track (3501.378mil,3760mil)(3548.622mil,3760mil)  Top Overlay and 
-                     Pad Ferrite-2(3525mil,3795.433mil)  Top Layer
-   Violation between Track (3501.378mil,3760mil)(3548.622mil,3760mil)  Top Overlay and 
-                     Pad Ferrite-1(3525mil,3724.567mil)  Top Layer
    Violation between Text "ISP" (2356mil,3632mil)  Top Overlay and 
                      Pad C9-2(2390mil,3672.913mil)  Top Layer
    Violation between Text "R1" (2997.5mil,3808.5mil)  Top Overlay and 
@@ -76,22 +76,16 @@ Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
                      Pad Y1-2(2703.898mil,3345mil)  Bottom Layer
    Violation between Track (3109.41mil,3252.48mil)(3109.41mil,3437.52mil)  Bottom Overlay and 
                      Pad Y1-1(3066.102mil,3345mil)  Bottom Layer
-   Violation between Track (3510mil,3786.378mil)(3510mil,3833.622mil)  Bottom Overlay and 
-                     Pad R4-2(3474.567mil,3810mil)  Bottom Layer
-   Violation between Text "C4" (3562mil,3789mil)  Bottom Overlay and 
-                     Pad R4-2(3474.567mil,3810mil)  Bottom Layer
-   Violation between Track (3510mil,3786.378mil)(3510mil,3833.622mil)  Bottom Overlay and 
-                     Pad R4-1(3545.433mil,3810mil)  Bottom Layer
-   Violation between Text "C4" (3562mil,3789mil)  Bottom Overlay and 
-                     Pad R4-1(3545.433mil,3810mil)  Bottom Layer
-   Violation between Text "C6" (3562mil,3714mil)  Bottom Overlay and 
-                     Pad C4-2(3480.472mil,3730mil)  Bottom Layer
-   Violation between Text "C6" (3562mil,3714mil)  Bottom Overlay and 
-                     Pad C4-1(3539.528mil,3730mil)  Bottom Layer
-   Violation between Text "R4" (3562mil,3868mil)  Bottom Overlay and 
-                     Pad C7-2(3539.528mil,3885mil)  Bottom Layer
-   Violation between Text "R4" (3562mil,3868mil)  Bottom Overlay and 
-                     Pad C7-1(3480.472mil,3885mil)  Bottom Layer
+   Violation between Track (3670mil,3776.378mil)(3670mil,3823.622mil)  Bottom Overlay and 
+                     Pad R4-2(3634.567mil,3800mil)  Bottom Layer
+   Violation between Text "C6" (3727mil,3779mil)  Bottom Overlay and 
+                     Pad R4-2(3634.567mil,3800mil)  Bottom Layer
+   Violation between Track (3670mil,3776.378mil)(3670mil,3823.622mil)  Bottom Overlay and 
+                     Pad R4-1(3705.433mil,3800mil)  Bottom Layer
+   Violation between Text "C6" (3727mil,3779mil)  Bottom Overlay and 
+                     Pad R4-1(3705.433mil,3800mil)  Bottom Layer
+   Violation between Text "R4" (3722mil,3858mil)  Bottom Overlay and 
+                     Pad C7-2(3639.528mil,3885mil)  Bottom Layer
    Violation between Track (2589.882mil,3648.11mil)(2589.882mil,3911.89mil)  Bottom Overlay and 
                      Pad U3-1(2530.827mil,3689.449mil)  Bottom Layer
    Violation between Track (2589.882mil,3648.11mil)(2589.882mil,3911.89mil)  Bottom Overlay and 
@@ -100,7 +94,7 @@ Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
                      Pad U3-3(2530.827mil,3870.551mil)  Bottom Layer
    Violation between Track (2700.118mil,3648.11mil)(2700.118mil,3911.89mil)  Bottom Overlay and 
                      Pad U3-4(2759.173mil,3780mil)  Bottom Layer
-Rule Violations :32
+Rule Violations :29
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Pad C1-1(3510mil,3370.472mil)  Top Layer and 
@@ -175,12 +169,12 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
                      Pad MiniUSB-2(3668.071mil,3543.504mil)  Top Layer
    Violation between Pad MiniUSB-5(3668.071mil,3637.992mil)  Top Layer and 
                      Pad MiniUSB-4(3668.071mil,3606.496mil)  Top Layer
-   Violation between Pad C4-1(3539.528mil,3730mil)  Bottom Layer and 
-                     Pad C4-2(3480.472mil,3730mil)  Bottom Layer
-   Violation between Pad C7-1(3480.472mil,3885mil)  Bottom Layer and 
-                     Pad C7-2(3539.528mil,3885mil)  Bottom Layer
-   Violation between Pad C6-1(3539.528mil,3655mil)  Bottom Layer and 
-                     Pad C6-2(3480.472mil,3655mil)  Bottom Layer
+   Violation between Pad C4-1(3500mil,3630.472mil)  Bottom Layer and 
+                     Pad C4-2(3500mil,3689.528mil)  Bottom Layer
+   Violation between Pad C7-1(3580.472mil,3885mil)  Bottom Layer and 
+                     Pad C7-2(3639.528mil,3885mil)  Bottom Layer
+   Violation between Pad C6-1(3704.528mil,3720mil)  Bottom Layer and 
+                     Pad C6-2(3645.472mil,3720mil)  Bottom Layer
    Violation between Pad U2-2(3089.173mil,3569.252mil)  Bottom Layer and 
                      Pad U2-1(3089.173mil,3543.661mil)  Bottom Layer
    Violation between Pad U2-3(3089.173mil,3594.843mil)  Bottom Layer and 
@@ -233,13 +227,11 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
                      Pad U2-17(3360.827mil,3825.157mil)  Bottom Layer
    Violation between Pad U2-15(3360.827mil,3876.339mil)  Bottom Layer and 
                      Pad U2-16(3360.827mil,3850.748mil)  Bottom Layer
-   Violation between Via (3420mil,3900mil) Top Layer to Bottom Layer and 
-                     Pad U2-15(3360.827mil,3876.339mil)  Bottom Layer
    Violation between Via (2460mil,3735mil) Top Layer to Bottom Layer and 
                      Pad U3-1(2530.827mil,3689.449mil)  Bottom Layer
    Violation between Via (2460mil,3735mil) Top Layer to Bottom Layer and 
                      Pad U3-2(2530.827mil,3780mil)  Bottom Layer
-Rule Violations :68
+Rule Violations :67
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -269,5 +261,5 @@ Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(All)
 Rule Violations :0
 
 
-Violations Detected : 113
-Time Elapsed        : 00:00:01
+Violations Detected : 109
+Time Elapsed        : 00:00:02

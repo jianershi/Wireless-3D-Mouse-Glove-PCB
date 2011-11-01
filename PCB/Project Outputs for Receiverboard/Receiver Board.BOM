@@ -1,0 +1,18 @@
+Bill of Material for 
+On 10/31/2011 at 7:42:44 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ ATmega8L-8AI        32A_N            1    U1                           8-Bit AVR Microcontroller with 8K Bytes of In-System Programmable Flash Memory 
+ Cap Pol3 TANT       capc3216n        2    C8, C9                       Polarized Capacitor (Surface Mount) 
+ Cap Semi            CAPC2012L        7    C1, C2, C3, C4, C5, C6, C7   Capacitor (Semiconductor SIM Model) 
+ Ferrite Bead 1A     RESC2012N        1    Ferrite                                           
+ FT232RL-Reel        SSOP-28_N        1    U2                           USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tape and Reel 
+ Header 3X2          HDR2X3           1    ISP                          Header, 3-Pin, Dual row 
+ Header 4X2          HDR2X4           1    RF Board                     Header, 4-Pin, Dual row 
+ LED2                RESC1608N        1    TXD                          Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+ LED2                RESC3216N        1    RXD                          Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+ LM1117MPX-3.3       MP04A_N          1    U3                           800mA Low-Dropout Linear Regulator, 4-pin SOT-223 
+ Mini USB            MINI USB         1    MiniUSB                                           
+ Res3                RESC2012N        4    R1, R2, R3, R4               Resistor             
+ XTAL 8Mhz           HC-49U - SMD     1    Y1                           Crystal Oscillator   

@@ -1,0 +1,14 @@
+Added Component: Designator=C4(CAPC2012L)
+Added Component: Designator=Ferrite(RESC2012N)
+Added Component: Designator=Mech1(HDR1X2)
+Added Component: Designator=Mech2(HDR1X2)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5VCC Pin=C4-2
+Added Pin To Net: NetName=NetC1_1 Pin=Ferrite-1
+Added Pin To Net: NetName=5VCC Pin=Ferrite-2
+Added Member To Class: ClassName=2.4ghz Receiver Board Member=Component C4 Cap Semi
+Added Member To Class: ClassName=2.4ghz Receiver Board Member=Component Ferrite Ferrite Bead 1A
+Added Member To Class: ClassName=2.4ghz Receiver Board Member=Component Mech1 Header 2
+Added Member To Class: ClassName=2.4ghz Receiver Board Member=Component Mech2 Header 2
+Added Room: Name=2.4ghz Receiver Board
+Added Room: Name=5V to 3.3V
