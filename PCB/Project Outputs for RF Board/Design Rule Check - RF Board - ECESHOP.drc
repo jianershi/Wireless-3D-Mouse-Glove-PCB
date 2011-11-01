@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\RF Board - ECESHOP.PcbDoc
 Date     : 11/1/2011
-Time     : 4:23:04 PM
+Time     : 5:01:24 PM
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
    Violation between Net Antennae: Track (3820mil,3087.1mil)(3912.9mil,3087.1mil)  Top Layer
@@ -167,4 +167,4 @@ Rule Violations :0
 
 
 Violations Detected : 62
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
