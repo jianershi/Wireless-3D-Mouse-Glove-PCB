@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R2 Old Footprint=C0805 New Footprint=RESC2012N
+Added Room: Name=2.4Ghz Chip Board
+Added Room: Name=U_nRF24L01+
