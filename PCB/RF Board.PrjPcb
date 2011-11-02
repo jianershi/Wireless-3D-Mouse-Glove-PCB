@@ -143,38 +143,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=HEF4052B.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document9]
-DocumentPath=HEF4052B.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document10]
 DocumentPath=HMC5883L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document9]
 DocumentPath=HMC5883L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document10]
 DocumentPath=IMU3000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document11]
 DocumentPath=IMU3000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document12]
 DocumentPath=nRF24L01+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,39 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
-DocumentPath=SOT23-5-withhole.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document16]
-DocumentPath=SPX3819.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document17]
+[Document13]
 DocumentPath=TPS7333Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +238,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document14]
 DocumentPath=nRF24L01+.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +254,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
+[Document15]
 DocumentPath=XTAL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
