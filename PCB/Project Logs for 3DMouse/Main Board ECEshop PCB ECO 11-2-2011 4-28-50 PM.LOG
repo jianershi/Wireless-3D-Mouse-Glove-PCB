@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=U1 Old Footprint=TQFP64_N New Footprint=TQFP64_N - ECESHOP
+Added Component: Designator=P5(HDR1X5)
+Added Component: Designator=P6(HDR1X4)
+Added Component: Designator=P7(HDR1X6)
+Added Component: Designator=P8(HDR1X8)
+Added Pin To Net: NetName=PB0 Pin=P5-1
+Added Pin To Net: NetName=PB1 Pin=P5-2
+Added Pin To Net: NetName=PA8 Pin=P5-3
+Added Pin To Net: NetName=PA30 Pin=P5-4
+Added Pin To Net: NetName=PA31 Pin=P5-5
+Added Pin To Net: NetName=PB2 Pin=P6-1
+Added Pin To Net: NetName=PB3 Pin=P6-2
+Added Pin To Net: NetName=PB4 Pin=P6-3
+Added Pin To Net: NetName=PB5 Pin=P6-4
+Added Pin To Net: NetName=PA13 Pin=P7-1
+Added Pin To Net: NetName=PA17 Pin=P7-2
+Added Pin To Net: NetName=PA29 Pin=P7-3
+Added Pin To Net: NetName=PB7 Pin=P7-4
+Added Pin To Net: NetName=PA22 Pin=P7-5
+Added Pin To Net: NetName=PA23 Pin=P7-6
+Added Pin To Net: NetName=PB8 Pin=P8-1
+Added Pin To Net: NetName=PB9 Pin=P8-2
+Added Pin To Net: NetName=PB10 Pin=P8-3
+Added Pin To Net: NetName=PB11 Pin=P8-4
+Added Pin To Net: NetName=PA24 Pin=P8-5
+Added Pin To Net: NetName=PA25 Pin=P8-6
+Added Pin To Net: NetName=PA26 Pin=P8-7
+Added Pin To Net: NetName=PA27 Pin=P8-8
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P5 Header 5
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P6 Header 4
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P7 Header 8
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P8 Header 7

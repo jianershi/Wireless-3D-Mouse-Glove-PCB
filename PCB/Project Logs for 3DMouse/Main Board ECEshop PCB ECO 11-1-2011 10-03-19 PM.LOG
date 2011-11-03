@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P9 NewDesignator=TWI_OnBoard Sensor
+Change Component Designator: OldDesignator=P10 NewDesignator=P_OnBoard Sensor
+Added Room: Name=U_3
+Added Room: Name=U_Main Board

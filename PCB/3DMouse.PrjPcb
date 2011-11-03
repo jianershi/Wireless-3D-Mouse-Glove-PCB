@@ -31,6 +31,22 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
+DocumentPath=Main Board ECEshop.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document2]
 DocumentPath=Main Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -46,39 +62,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document2]
-DocumentPath=IMU3000.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
 [Document3]
-DocumentPath=BMA180.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document4]
 DocumentPath=3.3V Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +78,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +94,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=Main Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,23 +110,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
-DocumentPath=Sensors on Main Board.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document8]
+[Document6]
 DocumentPath=I2C_BUS_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +126,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document7]
 DocumentPath=3DMouseMainBoardAssembly.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,23 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
-DocumentPath=HMC5883L.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document11]
+[Document8]
 DocumentPath=74LV4051.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document9]
 DocumentPath=BMA180.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document10]
 DocumentPath=BMA180.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document11]
 DocumentPath=Ferrite Bead.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document12]
 DocumentPath=HMC5883L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document13]
 DocumentPath=HMC5883L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +238,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document14]
 DocumentPath=IMU3000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +254,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document15]
 DocumentPath=IMU3000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +270,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
+[Document16]
 DocumentPath=Mini USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -334,7 +286,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document20]
+[Document17]
 DocumentPath=nRF24L01+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -350,7 +302,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
+[Document18]
 DocumentPath=TPS7333Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,39 +318,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document22]
-DocumentPath=Autorouted Main Board Gerber.cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document23]
-DocumentPath=Autorouted Main Board Gerber NC Drill.cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document24]
+[Document19]
 DocumentPath=Mini USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,8 +334,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document25]
+[Document20]
 DocumentPath=XTAL.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document21]
+DocumentPath=XTAL32.768.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document22]
+DocumentPath=AT32UC3B0256.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -435,182 +387,186 @@ DocumentPath=Project Outputs for 3DMouse\Design Rule Check - Main Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for 3DMouse\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for 3DMouse\Design Rule Check - Main Board ECEshop.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for 3DMouse\Main Board.DRR
+DocumentPath=Project Outputs for 3DMouse\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for 3DMouse\Main Board.EXTREP
+DocumentPath=Project Outputs for 3DMouse\Main Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GBL
+DocumentPath=Project Outputs for 3DMouse\Main Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GBO
+DocumentPath=Project Outputs for 3DMouse\Main Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GBP
+DocumentPath=Project Outputs for 3DMouse\Main Board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GBS
+DocumentPath=Project Outputs for 3DMouse\Main Board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GD1
+DocumentPath=Project Outputs for 3DMouse\Main Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GG1
+DocumentPath=Project Outputs for 3DMouse\Main Board.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GKO
+DocumentPath=Project Outputs for 3DMouse\Main Board.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GM1
+DocumentPath=Project Outputs for 3DMouse\Main Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GM13
+DocumentPath=Project Outputs for 3DMouse\Main Board.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GM15
+DocumentPath=Project Outputs for 3DMouse\Main Board.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GPB
+DocumentPath=Project Outputs for 3DMouse\Main Board.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GPT
+DocumentPath=Project Outputs for 3DMouse\Main Board.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GTL
+DocumentPath=Project Outputs for 3DMouse\Main Board.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GTO
+DocumentPath=Project Outputs for 3DMouse\Main Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GTP
+DocumentPath=Project Outputs for 3DMouse\Main Board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for 3DMouse\Main Board.GTS
+DocumentPath=Project Outputs for 3DMouse\Main Board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for 3DMouse\Main Board.LDP
+DocumentPath=Project Outputs for 3DMouse\Main Board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for 3DMouse\Main Board.REP
+DocumentPath=Project Outputs for 3DMouse\Main Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for 3DMouse\Main Board.RUL
+DocumentPath=Project Outputs for 3DMouse\Main Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for 3DMouse\PCB1.DRL
+DocumentPath=Project Outputs for 3DMouse\Main Board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for 3DMouse\PCB1.DRR
+DocumentPath=Project Outputs for 3DMouse\PCB1.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for 3DMouse\PCB1.EXTREP
+DocumentPath=Project Outputs for 3DMouse\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBL
+DocumentPath=Project Outputs for 3DMouse\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBO
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBS
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GD1
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GG1
+DocumentPath=Project Outputs for 3DMouse\PCB1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GKO
+DocumentPath=Project Outputs for 3DMouse\PCB1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM1
+DocumentPath=Project Outputs for 3DMouse\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM13
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM15
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GPB
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GPT
+DocumentPath=Project Outputs for 3DMouse\PCB1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTL
+DocumentPath=Project Outputs for 3DMouse\PCB1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTO
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTS
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for 3DMouse\PCB1.LDP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for 3DMouse\PCB1.REP
+DocumentPath=Project Outputs for 3DMouse\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for 3DMouse\PCB1.RUL
+DocumentPath=Project Outputs for 3DMouse\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
+DocumentPath=Project Outputs for 3DMouse\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
 DocumentPath=Project Outputs for 3DMouse\PCB1.TXT
 DItemRevisionGUID=
 
