@@ -479,94 +479,142 @@ DocumentPath=Project Outputs for 3DMouse\Main Board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for 3DMouse\PCB1.DRL
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for 3DMouse\PCB1.DRR
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for 3DMouse\PCB1.EXTREP
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBL
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBO
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBP
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GBS
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GD1
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GG1
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GKO
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.REP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM1
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM13
+DocumentPath=Project Outputs for 3DMouse\Main Board ECEshop.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GM15
+DocumentPath=Project Outputs for 3DMouse\PCB1.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GPB
+DocumentPath=Project Outputs for 3DMouse\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GPT
+DocumentPath=Project Outputs for 3DMouse\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTL
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTO
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for 3DMouse\PCB1.GTS
+DocumentPath=Project Outputs for 3DMouse\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for 3DMouse\PCB1.LDP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for 3DMouse\PCB1.REP
+DocumentPath=Project Outputs for 3DMouse\PCB1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for 3DMouse\PCB1.RUL
+DocumentPath=Project Outputs for 3DMouse\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument47]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for 3DMouse\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for 3DMouse\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for 3DMouse\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for 3DMouse\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
 DocumentPath=Project Outputs for 3DMouse\PCB1.TXT
 DItemRevisionGUID=
 
@@ -864,7 +912,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ODB
 OutputName1=ODB++ Files
@@ -941,7 +989,7 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotDrillDrawingLayerPair0_HighLayer=Top Layer|PlotDrillDrawingLayerPair0_LowLayer=Bottom Layer|PlotDrillGuideLayerPair0_HighLayer=Top Layer|PlotDrillGuideLayerPair0_LowLayer=Bottom Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16842751~1,16973837~1|PlotDrillDrawingLayerPair0_HighLayer=Top Layer|PlotDrillDrawingLayerPair0_LowLayer=Bottom Layer|PlotDrillGuideLayerPair0_HighLayer=Top Layer|PlotDrillGuideLayerPair0_LowLayer=Bottom Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
