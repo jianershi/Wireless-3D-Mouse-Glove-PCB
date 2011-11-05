@@ -31,7 +31,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
-DocumentPath=Receiver Board.PcbDoc
+DocumentPath=Receiver Board - Commercial China.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -47,6 +47,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
+DocumentPath=Receiver Board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document3]
 DocumentPath=5V to 3.3V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -62,7 +78,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document3]
+[Document4]
 DocumentPath=2.4ghz Receiver Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -78,7 +94,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document5]
 DocumentPath=74LV4051.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +110,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document6]
 DocumentPath=BMA180.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +126,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document7]
 DocumentPath=BMA180.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,7 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document8]
 DocumentPath=Ferrite Bead.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document9]
 DocumentPath=HMC5883L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document10]
 DocumentPath=HMC5883L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document11]
 DocumentPath=IMU3000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document12]
 DocumentPath=IMU3000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document13]
 DocumentPath=Mini USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +238,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document14]
 DocumentPath=nRF24L01+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +254,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document15]
 DocumentPath=TPS7333Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +270,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document16]
 DocumentPath=Mini USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +286,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document17]
 DocumentPath=XTAL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,62 +303,66 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Receiverboard\Design Rule Check - Receiver Board.html
+DocumentPath=Project Outputs for Receiverboard\Design Rule Check - Receiver Board - Commercial China.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.BOM
+DocumentPath=Project Outputs for Receiverboard\Design Rule Check - Receiver Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.CSV
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.DRL
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.DRR
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.EXTREP
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.GBL
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.GD1
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.GG1
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.GKO
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.GTL
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.LDP
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.REP
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Receiverboard\Receiver Board.RUL
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for Receiverboard\Receiver Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Receiverboard\Receiver Board.TXT
 DItemRevisionGUID=
 
