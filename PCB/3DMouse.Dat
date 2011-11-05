@@ -1,0 +1,26 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~3DMouse.PrjPcb|ReportField=ProjectFullPath~C:\Users\Paul Shi\git_project\ece445\PCB\3DMouse.PrjPcb|ReportField=Title~Bill of Materials For Project [3DMouse.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~63|ReportField=ReportTime~2:16:00 PM|ReportField=ReportDate~11/4/2011|ReportField=ReportDateTime~11/4/2011 2:16:00 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~11/4/2011|ReportField=CurrentTime~2:13:40 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Paul Shi\git_project\ece445\PCB\3DMouseMainBoardAssembly.SchDoc|ReportField=DocumentName~3DMouseMainBoardAssembly.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~11/1/2011|ReportField=Organization~|ReportField=ProjectName~3DMouse.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~3DMouse.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Paul Shi\git_project\ece445\PCB\3DMouse.PrjPcb
+Header 4X2|Header, 4-Pin, Dual row|2.4G|HDR2X4|Header 4X2|1|
+TPS7333Q||3.3V Power Source|SOIC127P600-8BN|TPS7333Q|1|
+Header 2|Header, 2-Pin|Battery, RESET, UART|HDR1X2|Header 2|3|
+Cap Pol1|Polarized Capacitor (Radial)|C1|TC7343-2917|Cap Pol1|1|10uF
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15|CAPC2012N|Cap Semi|14|.1uF, 1nF, 2.2uF, 4.7uF, 10nF, 22pF, 470pF
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1|RESC3216N|LED2|1|
+Header 5X2|Header, 5-Pin, Dual row|FB_Power, FB_TWIs|HDR2X5|Header 5X2|2|
+Ferrite Bead||Ferrite|RESC2012N|Ferrite Bead|1|
+Header 3X2|Header, 3-Pin, Dual row|JTAG|HDR2X3|Header 3X2|1|
+Mini USB||Mini-USB|MINI USB|Mini USB|1|
+Header 1-16|Header, 8-Pin, Dual row|P1|HDR2X8|Header 8X2|1|
+Header 17-32|Header, 8-Pin, Dual row|P2|HDR2X8|Header 8X2|1|
+Header 33-48|Header, 8-Pin, Dual row|P3|HDR2X8|Header 8X2|1|
+Header 49-64|Header, 8-Pin, Dual row|P4|HDR2X8|Header 8X2|1|
+Header 5|Header, 5-Pin|P5|HDR1X5|Header 5|1|
+Header 4|Header, 4-Pin|P6|HDR1X4|Header 4|1|
+Header 8|Header, 6-Pin|P7|HDR1X6|Header 6|1|
+Header 7|Header, 8-Pin|P8|HDR1X8|Header 8|1|
+P_OnBoard Sensor|Header, 2-Pin|P_OnBoard Sensor|HDR1X2|Header 2|1|
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22|RESC2012N|Res3|22|1k, 10k, 39, 80.6, 250k
+74LV4051||SCL MUX/DEMUX, SDA MUX/DEMUX|SOIC127P600-16N|74LV4051|2|
+TWI_OnBoard Sensor|Header, 2-Pin|TWI_OnBoard Sensor|HDR1X2|Header 2|1|
+AT32UC3B0256-A2UT|32-bit AVR UC3 B Series Microcontroller, 256KB Flash, 32KB SRAM, 44 GPIO pins, Industrial Grade, 64-Pin TQFP, Tray|U1|TQFP64_N - ECESHOP|AT32UC3B0256-A2UT|1|
+XTAL 16Mhz|Crystal Oscillator|Y1|HC-49U - Through Hole|XTAL|1|
+XTAL 32.768khz|Crystal Oscillator|Y2|XTAL32.768|XTAL|1|
