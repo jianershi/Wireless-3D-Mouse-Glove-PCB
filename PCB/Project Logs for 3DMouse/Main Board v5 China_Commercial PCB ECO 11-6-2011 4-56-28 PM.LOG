@@ -1,0 +1,132 @@
+Change Component Designator: OldDesignator=OnBoard Sensor NewDesignator=P_OnBoard Sensor
+Added Component: Designator=C11(CAPC2012N)
+Added Component: Designator=C12(CAPC2012N)
+Added Component: Designator=JTAG(HDR2X3)
+Added Component: Designator=P1(HDR2X8)
+Added Component: Designator=P2(HDR2X8)
+Added Component: Designator=P3(HDR2X8)
+Added Component: Designator=P4(HDR2X8)
+Added Component: Designator=P5(HDR1X5)
+Added Component: Designator=P6(HDR1X4)
+Added Component: Designator=P7(HDR1X6)
+Added Component: Designator=P8(HDR1X8)
+Added Component: Designator=R19(RESC2012N)
+Added Component: Designator=R20(RESC2012N)
+Added Component: Designator=R21(RESC2012N)
+Added Component: Designator=R22(RESC2012N)
+Added Component: Designator=RESET(HDR1X2)
+Added Component: Designator=UART(HDR1X2)
+Added Component: Designator=Y2(XTAL32.768)
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=PA11 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=PA12 Pin=C12-2
+Added Pin To Net: NetName=JTAG_TCK Pin=JTAG-1
+Added Pin To Net: NetName=GND Pin=JTAG-2
+Added Pin To Net: NetName=PA1 Pin=JTAG-3
+Added Pin To Net: NetName=3.3VCC Pin=JTAG-4
+Added Pin To Net: NetName=PA2 Pin=JTAG-5
+Added Pin To Net: NetName=PA0 Pin=JTAG-6
+Added Pin To Net: NetName=PA0 Pin=P1-3
+Added Pin To Net: NetName=PA1 Pin=P1-4
+Added Pin To Net: NetName=PA2 Pin=P1-5
+Added Pin To Net: NetName=PB0 Pin=P1-6
+Added Pin To Net: NetName=PB1 Pin=P1-7
+Added Pin To Net: NetName=PA3 Pin=P1-9
+Added Pin To Net: NetName=PA4 Pin=P1-10
+Added Pin To Net: NetName=BUS_SEL0 Pin=P1-11
+Added Pin To Net: NetName=BUS_SEL1 Pin=P1-12
+Added Pin To Net: NetName=BUS_SEL2 Pin=P1-13
+Added Pin To Net: NetName=PA8 Pin=P1-14
+Added Pin To Net: NetName=PA30 Pin=P1-15
+Added Pin To Net: NetName=PA31 Pin=P1-16
+Added Pin To Net: NetName=PB2 Pin=P2-8
+Added Pin To Net: NetName=PB3 Pin=P2-9
+Added Pin To Net: NetName=PB4 Pin=P2-10
+Added Pin To Net: NetName=PB5 Pin=P2-11
+Added Pin To Net: NetName=PA9 Pin=P2-12
+Added Pin To Net: NetName=PA10 Pin=P2-13
+Added Pin To Net: NetName=PA11 Pin=P2-14
+Added Pin To Net: NetName=PA12 Pin=P2-15
+Added Pin To Net: NetName=PA13 Pin=P3-1
+Added Pin To Net: NetName=PA14 Pin=P3-2
+Added Pin To Net: NetName=PA15 Pin=P3-3
+Added Pin To Net: NetName=PA16 Pin=P3-4
+Added Pin To Net: NetName=PA17 Pin=P3-5
+Added Pin To Net: NetName=PB6 Pin=P3-6
+Added Pin To Net: NetName=PA18 Pin=P3-7
+Added Pin To Net: NetName=PA19 Pin=P3-8
+Added Pin To Net: NetName=PA28 Pin=P3-9
+Added Pin To Net: NetName=PA29 Pin=P3-10
+Added Pin To Net: NetName=PB7 Pin=P3-11
+Added Pin To Net: NetName=PA20 Pin=P3-12
+Added Pin To Net: NetName=PA21 Pin=P3-13
+Added Pin To Net: NetName=PA22 Pin=P3-14
+Added Pin To Net: NetName=PA23 Pin=P3-15
+Added Pin To Net: NetName=PB8 Pin=P4-6
+Added Pin To Net: NetName=PB9 Pin=P4-7
+Added Pin To Net: NetName=PB10 Pin=P4-9
+Added Pin To Net: NetName=PB11 Pin=P4-10
+Added Pin To Net: NetName=PA24 Pin=P4-11
+Added Pin To Net: NetName=PA25 Pin=P4-12
+Added Pin To Net: NetName=PA26 Pin=P4-13
+Added Pin To Net: NetName=PA27 Pin=P4-14
+Added Pin To Net: NetName=PB0 Pin=P5-1
+Added Pin To Net: NetName=PB1 Pin=P5-2
+Added Pin To Net: NetName=PA8 Pin=P5-3
+Added Pin To Net: NetName=PA30 Pin=P5-4
+Added Pin To Net: NetName=PA31 Pin=P5-5
+Added Pin To Net: NetName=PB2 Pin=P6-1
+Added Pin To Net: NetName=PB3 Pin=P6-2
+Added Pin To Net: NetName=PB4 Pin=P6-3
+Added Pin To Net: NetName=PB5 Pin=P6-4
+Added Pin To Net: NetName=PA13 Pin=P7-1
+Added Pin To Net: NetName=PA17 Pin=P7-2
+Added Pin To Net: NetName=PA29 Pin=P7-3
+Added Pin To Net: NetName=PB7 Pin=P7-4
+Added Pin To Net: NetName=PA22 Pin=P7-5
+Added Pin To Net: NetName=PA23 Pin=P7-6
+Added Pin To Net: NetName=PB8 Pin=P8-1
+Added Pin To Net: NetName=PB9 Pin=P8-2
+Added Pin To Net: NetName=PB10 Pin=P8-3
+Added Pin To Net: NetName=PB11 Pin=P8-4
+Added Pin To Net: NetName=PA24 Pin=P8-5
+Added Pin To Net: NetName=PA25 Pin=P8-6
+Added Pin To Net: NetName=PA26 Pin=P8-7
+Added Pin To Net: NetName=PA27 Pin=P8-8
+Added Pin To Net: NetName=3.3VCC Pin=R19-1
+Added Pin To Net: NetName=PA0 Pin=R19-2
+Added Pin To Net: NetName=3.3VCC Pin=R20-1
+Added Pin To Net: NetName=PA2 Pin=R20-2
+Added Pin To Net: NetName=3.3VCC Pin=R21-1
+Added Pin To Net: NetName=PA1 Pin=R21-2
+Added Pin To Net: NetName=3.3VCC Pin=R22-1
+Added Pin To Net: NetName=JTAG_TCK Pin=R22-2
+Added Pin To Net: NetName=RESET_N Pin=RESET-1
+Added Pin To Net: NetName=GND Pin=RESET-2
+Added Pin To Net: NetName=PA21 Pin=UART-1
+Added Pin To Net: NetName=PA20 Pin=UART-2
+Added Pin To Net: NetName=PA12 Pin=Y2-1
+Added Pin To Net: NetName=PA11 Pin=Y2-2
+Added Member To Class: ClassName=U_Main Board Member=Component C11 Cap Semi
+Added Member To Class: ClassName=U_Main Board Member=Component C12 Cap Semi
+Added Member To Class: ClassName=U_Main Board Member=Component JTAG Header 3X2
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P1 Header 1-16
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P2 Header 17-32
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P3 Header 33-48
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P4 Header 49-64
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P5 Header 5
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P6 Header 4
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P7 Header 8
+Added Member To Class: ClassName=3DMouseMainBoardAssembly Member=Component P8 Header 7
+Added Member To Class: ClassName=U_Main Board Member=Component R19 Res3
+Added Member To Class: ClassName=U_Main Board Member=Component R20 Res3
+Added Member To Class: ClassName=U_Main Board Member=Component R21 Res3
+Added Member To Class: ClassName=U_Main Board Member=Component R22 Res3
+Added Member To Class: ClassName=U_Main Board Member=Component RESET Header 2
+Added Member To Class: ClassName=U_Main Board Member=Component UART Header 2
+Added Member To Class: ClassName=U_Main Board Member=Component Y2 XTAL 32.768khz
+Added Room: Name=3DMouseMainBoardAssembly
+Added Room: Name=U_3
+Added Room: Name=U_I2C_BUS_MUX
+Added Room: Name=U_Main Board

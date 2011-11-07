@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\Fingerboardv5_Commerical_China.PcbDoc
-Date     : 11/5/2011
-Time     : 7:59:40 PM
+Date     : 11/6/2011
+Time     : 11:51:01 AM
 
-Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(All)
+Processing Rule : Clearance Constraint (Gap=15mil) (InPolygon),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=8.1mil) (All),(All)
@@ -293,4 +293,4 @@ Rule Violations :0
 
 
 Violations Detected : 123
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
