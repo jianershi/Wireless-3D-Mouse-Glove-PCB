@@ -1,0 +1,36 @@
+Added Component: Designator=3.3VCC(HDR1X2)
+Added Component: Designator=3.3V Power Source(SOIC127P600-8BN)
+Added Component: Designator=Battery(HDR1X2)
+Added Component: Designator=C1(TC7343-2917)
+Added Component: Designator=C2(CAPC2012N)
+Added Component: Designator=D1(RESC3216N)
+Added Component: Designator=Mechanical(HDR1X2)
+Added Component: Designator=R1(RESC2012N)
+Added Pin To Net: NetName=3.3VCC Pin=3.3VCC-2
+Added Pin To Net: NetName=3.3VCC Pin=3.3V Power Source-5
+Added Pin To Net: NetName=3.3VCC Pin=3.3V Power Source-6
+Added Pin To Net: NetName=3.3VCC Pin=3.3V Power Source-7
+Added Pin To Net: NetName=3.3VCC Pin=C1-1
+Added Pin To Net: NetName=3.3VCC Pin=R1-1
+Added Net: Name=3.3VCC
+Added Pin To Net: NetName=GND Pin=3.3VCC-1
+Added Pin To Net: NetName=GND Pin=3.3V Power Source-1
+Added Pin To Net: NetName=GND Pin=3.3V Power Source-2
+Added Pin To Net: NetName=GND Pin=Battery-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3.3V Power Source_8 Pin=3.3V Power Source-8
+Added Pin To Net: NetName=Net3.3V Power Source_8 Pin=Mechanical-2
+Added Net: Name=Net3.3V Power Source_8
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=VIN Pin=3.3V Power Source-3
+Added Pin To Net: NetName=VIN Pin=3.3V Power Source-4
+Added Pin To Net: NetName=VIN Pin=Battery-2
+Added Pin To Net: NetName=VIN Pin=C2-2
+Added Net: Name=VIN
+Added Class: Name=TPS7333Q Breakout
+Added Room: Name=TPS7333Q Breakout

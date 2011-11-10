@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=Battery-2
+Added Component: Designator=S?(563-1102-1-ND)
+Added Pin To Net: NetName=VIN Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-3
+Change Net Name : Old Net Name=VIN New Net Name=Net3.3V Power Source_3
+Added Pin To Net: NetName=VIN Pin=Battery-2
+Added Pin To Net: NetName=VIN Pin=S?-1
+Added Net: Name=VIN
+Added Member To Class: ClassName=U_3 Member=Component S? SW-SPDT

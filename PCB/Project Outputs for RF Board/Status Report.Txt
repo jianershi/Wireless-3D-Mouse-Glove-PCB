@@ -1,13 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [RF Board.PrjPcb]
-   Generated File[RF Board - ECESHOP.TXT]
-   Generated File[RF Board - ECESHOP.DRL]
-   Generated File[RF Board - ECESHOP.LDP]
-   Generated File[RF Board - ECESHOP.DRR]
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [RF Board.PrjPcb]
+   Generated File[RF Board - Commercial China.BOM]
+   Generated File[RF Board - Commercial China.CSV]
 
 
-Files Generated   : 4
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 2:31:26 PM On 11/2/2011
+Finished Output Generation At 1:00:49 PM On 11/7/2011

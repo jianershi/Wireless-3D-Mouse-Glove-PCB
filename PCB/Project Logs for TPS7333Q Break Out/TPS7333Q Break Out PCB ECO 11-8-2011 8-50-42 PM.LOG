@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Net3.3V Power Source_8 Pin=Reset-2
+Added Pin To Net: NetName=Net3.3V Power Source_8 Pin=Reset-1
+Added Room: Name=TPS7333Q Breakout

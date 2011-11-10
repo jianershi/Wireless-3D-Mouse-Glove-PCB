@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Paul Shi\git_project\ece445\PCB\TPS7333Q Break Out.PcbDoc
+Date     : 11/8/2011
+Time     : 8:46:13 PM
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8.1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=16mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad C2-1(1910mil,3248.465mil)  Top Layer and 
+                     Pad C2-2(1910mil,3181.535mil)  Top Layer
+   Violation between Pad 3.3V Power Source-3(1987.638mil,3170mil)  Top Layer and 
+                     Pad C2-2(1910mil,3181.535mil)  Top Layer
+   Violation between Pad 3.3V Power Source-2(1987.638mil,3220mil)  Top Layer and 
+                     Pad C2-2(1910mil,3181.535mil)  Top Layer
+   Violation between Pad 3.3V Power Source-2(1987.638mil,3220mil)  Top Layer and 
+                     Pad C2-1(1910mil,3248.465mil)  Top Layer
+   Violation between Pad 3.3V Power Source-1(1987.638mil,3270mil)  Top Layer and 
+                     Pad C2-1(1910mil,3248.465mil)  Top Layer
+Rule Violations :5
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Text "C1" (1848.5mil,3310.5mil)  Bottom Overlay and 
+                     Pad Battery-1(1815mil,3260mil)  Multi-Layer
+   Violation between Text "D1" (2454.5mil,3222.5mil)  Top Overlay and 
+                     Pad 3.3VCC-1(2480mil,3180mil)  Multi-Layer
+   Violation between Track (2430mil,3130mil)(2430mil,3330mil)  Top Overlay and 
+                     Pad D1-2(2392.087mil,3180mil)  Top Layer
+   Violation between Text "R1" (2410.5mil,3220.5mil)  Top Overlay and 
+                     Pad D1-2(2392.087mil,3180mil)  Top Layer
+   Violation between Text "3.3V Power Source" (2265.5mil,3308.5mil)  Top Overlay and 
+                     Pad D1-1(2277.913mil,3180mil)  Top Layer
+   Violation between Track (2345mil,3261.378mil)(2345mil,3308.622mil)  Top Overlay and 
+                     Pad R1-1(2380.433mil,3285mil)  Top Layer
+   Violation between Track (2345mil,3261.378mil)(2345mil,3308.622mil)  Top Overlay and 
+                     Pad R1-2(2309.567mil,3285mil)  Top Layer
+   Violation between Text "3.3V Power Source" (2265.5mil,3308.5mil)  Top Overlay and 
+                     Pad R1-2(2309.567mil,3285mil)  Top Layer
+   Violation between Text "C2" (1977.5mil,3280.5mil)  Top Overlay and 
+                     Pad 3.3V Power Source-2(1987.638mil,3220mil)  Top Layer
+   Violation between Text "C2" (1977.5mil,3280.5mil)  Top Overlay and 
+                     Pad 3.3V Power Source-1(1987.638mil,3270mil)  Top Layer
+Rule Violations :10
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "R1" (2410.5mil,3220.5mil)  Top Overlay and 
+                     Track (2319.252mil,3211.496mil)(2350.748mil,3211.496mil)  Top Overlay
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 16
+Time Elapsed        : 00:00:01

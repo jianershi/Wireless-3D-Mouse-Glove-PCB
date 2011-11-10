@@ -1,13 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Fingerboard.PrjPcb]
-   Generated File[Fingerboardv5_eceshop.TXT]
-   Generated File[Fingerboardv5_eceshop.DRL]
-   Generated File[Fingerboardv5_eceshop.LDP]
-   Generated File[Fingerboardv5_eceshop.DRR]
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Fingerboard.PrjPcb]
+   Generated File[Fingerboardv5_Commerical_China.BOM]
+   Generated File[Fingerboardv5_Commerical_China.CSV]
 
 
-Files Generated   : 4
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 3:29:02 PM On 11/1/2011
+Finished Output Generation At 1:04:34 PM On 11/7/2011

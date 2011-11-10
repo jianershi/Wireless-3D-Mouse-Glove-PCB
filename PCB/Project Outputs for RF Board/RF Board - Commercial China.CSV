@@ -1,0 +1,12 @@
+"Bill of Material for "
+"On 11/7/2011 at 1:00:49 PM"
+
+"Comment","Pattern","Quantity","Components"
+
+"16Mhz","HC-49U - Through Hole","1","X1","Crystal Oscillator"
+"Cap Semi","CAPC2012N","9","C1, C2, C3, C4, C5, C6, C7, C8, C9","Capacitor (Semiconductor SIM Model)"
+"Header 4X2","HDR2X4","1","P1","Header, 4-Pin, Dual row"
+"Inductor","INDC1608N","3","L1, L2, L3","Inductor"
+"nRF24L01+","nRF24L01+","1","2.4Ghz",""
+"Res2","RESC2012N","1","R1","Resistor"
+"Res3","RESC2012N","1","R2","Resistor"
