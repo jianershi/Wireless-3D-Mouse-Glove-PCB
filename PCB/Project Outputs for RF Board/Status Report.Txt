@@ -1,11 +1,9 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [RF Board.PrjPcb]
-   Generated File[RF Board - Commercial China.BOM]
-   Generated File[RF Board - Commercial China.CSV]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 1:00:49 PM On 11/7/2011
+Finished Output Generation At 1:27:00 PM On 11/11/2011

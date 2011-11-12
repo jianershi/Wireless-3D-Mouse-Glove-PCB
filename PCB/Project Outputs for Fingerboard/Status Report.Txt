@@ -1,11 +1,9 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [Fingerboard.PrjPcb]
-   Generated File[Fingerboardv5_Commerical_China.BOM]
-   Generated File[Fingerboardv5_Commerical_China.CSV]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 1:04:34 PM On 11/7/2011
+Finished Output Generation At 1:26:20 PM On 11/11/2011

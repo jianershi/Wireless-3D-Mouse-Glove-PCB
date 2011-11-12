@@ -1,13 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Receiverboard.PrjPcb]
-   Generated File[Receiver Board.TXT]
-   Generated File[Receiver Board.DRL]
-   Generated File[Receiver Board.LDP]
-   Generated File[Receiver Board.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Receiverboard.PrjPcb]
 
 
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 9:27:17 PM On 10/31/2011
+Finished Output Generation At 1:24:35 PM On 11/11/2011
